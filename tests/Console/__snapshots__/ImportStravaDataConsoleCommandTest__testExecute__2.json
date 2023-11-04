@@ -1,7 +1,0 @@
-{
-    "commandName": "App.Domain.Strava.Activity.Stream.ImportActivityStreams.ImportActivityStreams",
-    "payload": {
-        "metadata": [],
-        "output": {}
-    }
-}
