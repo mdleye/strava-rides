@@ -198,7 +198,7 @@
                     "show": false
                 },
                 "max": 660,
-                "interval": 30
+                "interval": 150
             }
         ],
         "series": [
