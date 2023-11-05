@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `2599 days` ago on `22-09-2016`,
+Since I began cycling `2600 days` ago on `22-09-2016`,
 I had `655 cycling days`.<br />
 I recorded a total distance of `23 223 km`
 (`0.58` trips around the world 🌍 and
@@ -807,7 +807,7 @@ I burned `534130 calories` doing so, that's about `1 978` pizza slices 🍕
             </td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
             <td align="center">41m</td>
-            <td align="center">5</td>
+            <td align="center">6</td>
         </tr>
             <tr>
             <td align="center">October 2023</td>
@@ -1690,7 +1690,7 @@ I burned `534130 calories` doing so, that's about `1 978` pizza slices 🍕
         </tr>
         <tr>
         <td align="center" rowspan="3"><b>Totals</b></td>
-        <td align="center"><b>On Zwift</b></td>
+        <td align="center"><b>Virtual / Indoor</b></td>
         <td align="center" colspan="2"><b>469 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>0 <sup><sub>m</sub></sup></b></td>
         <td align="center" colspan="2"><b>14h 25m</b></td>
@@ -2157,7 +2157,7 @@ I burned `534130 calories` doing so, that's about `1 978` pizza slices 🍕
 
 ## Completed challenges
 
-<a href="https://www.strava.com/challenges/November-5K-x-Brooks"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/a3e15d2a-3078-4abb-a546-af34ddbefe57.png" alt="November 5K x Brooks" title="November 5K x Brooks" width="75" /></a><a href="https://www.strava.com/challenges/Get-in-the-Groove-with-Nuun"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/8519f816-7e7e-4025-bc83-1b2a96f34a39.png" alt="Get in the Groove with Nuun" title="Get in the Groove with Nuun" width="75" /></a><a href="https://www.strava.com/challenges/The-Great-Outdoors-with-DSW"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/e99b6b1a-7f45-408b-8726-870460d4a2f3.png" alt="The Great Outdoors with DSW" title="The Great Outdoors with DSW" width="75" /></a><a href="https://www.strava.com/challenges/CLIF-BLOKS-Party"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/f344493c-6d07-4114-bb5a-9f09c57ae142.png" alt="CLIF BLOKS Party!" title="CLIF BLOKS Party!" width="75" /></a><a href="https://www.strava.com/challenges/october-cycling-x-le-col"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/c0adc7e3-3a65-47a8-ac68-a59042f5faf6.png" alt="October Cycling Challenge x Le Col" title="October Cycling Challenge x Le Col" width="75" /></a>
+<a href="https://www.strava.com/challenges/Go-the-Extra-Miles"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/56f6de29-6453-4942-8a75-b0d80bcf278d.png" alt="Go the Extra Miles" title="Go the Extra Miles" width="75" /></a><a href="https://www.strava.com/challenges/November-5K-x-Brooks"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/a3e15d2a-3078-4abb-a546-af34ddbefe57.png" alt="November 5K x Brooks" title="November 5K x Brooks" width="75" /></a><a href="https://www.strava.com/challenges/Get-in-the-Groove-with-Nuun"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/8519f816-7e7e-4025-bc83-1b2a96f34a39.png" alt="Get in the Groove with Nuun" title="Get in the Groove with Nuun" width="75" /></a><a href="https://www.strava.com/challenges/The-Great-Outdoors-with-DSW"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/e99b6b1a-7f45-408b-8726-870460d4a2f3.png" alt="The Great Outdoors with DSW" title="The Great Outdoors with DSW" width="75" /></a><a href="https://www.strava.com/challenges/CLIF-BLOKS-Party"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/f344493c-6d07-4114-bb5a-9f09c57ae142.png" alt="CLIF BLOKS Party!" title="CLIF BLOKS Party!" width="75" /></a><a href="https://www.strava.com/challenges/october-cycling-x-le-col"><img src="https://raw.githubusercontent.com/mdleye/strava-rides/master/files/challenges/c0adc7e3-3a65-47a8-ac68-a59042f5faf6.png" alt="October Cycling Challenge x Le Col" title="October Cycling Challenge x Le Col" width="75" /></a>
 ## Want to have these statistics for yourself?
 
 Follow [this tutorial](https://github.com/robiningelbrecht/strava-activities-template)
