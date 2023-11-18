@@ -17,6 +17,7 @@ use App\Domain\Strava\Activity\BuildWeeklyDistanceChart\WeeklyDistanceChartBuild
 use App\Domain\Strava\Activity\HeartRateDistributionChartBuilder;
 use App\Domain\Strava\Activity\Image\Image;
 use App\Domain\Strava\Activity\Image\ImageRepository;
+use App\Domain\Strava\Activity\PowerDistributionChartBuilder;
 use App\Domain\Strava\Activity\Stream\ActivityHeartRateRepository;
 use App\Domain\Strava\Activity\Stream\ActivityPowerRepository;
 use App\Domain\Strava\Activity\Stream\ActivityStreamRepository;
@@ -175,9 +176,9 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                         ftps: $allFtps,
                         now: SerializableDateTime::fromDateTimeImmutable($this->clock->now())
                     )
-                    ->withoutBackgroundColor()
-                    ->withAnimation(true)
-                    ->build()
+                        ->withoutBackgroundColor()
+                        ->withAnimation(true)
+                        ->build()
                 ) : null,
                 'timeInHeartRateZoneChart' => Json::encode(
                     TimeInHeartRateZoneChartBuilder::fromTimeInZones(
@@ -187,7 +188,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                         timeInSecondsInHeartRateZoneFour: $this->activityHeartRateRepository->findTotalTimeInSecondsInHeartRateZone(HeartRateZone::FOUR),
                         timeInSecondsInHeartRateZoneFive: $this->activityHeartRateRepository->findTotalTimeInSecondsInHeartRateZone(HeartRateZone::FIVE),
                     )
-                    ->build(),
+                        ->build(),
                 ),
             ]),
         );
@@ -262,13 +263,26 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                 $activity->enrichWithMaxCadence(max($cadenceStream->getData()));
             }
 
+            $heartRateData = $this->activityHeartRateRepository->findTimeInSecondsPerHeartRateForActivity($activity->getId());
+            $powerData = $this->activityPowerRepository->findTimeInSecondsPerWattageForActivity($activity->getId());
+
             $this->filesystem->write(
                 'build/html/activity/activity-'.$activity->getId().'.html',
                 $this->twig->load('html/activity.html.twig')->render([
                     'activity' => $activity,
-                    'heartRateDistributionChart' => Json::encode(
-                        HeartRateDistributionChartBuilder::fromHeartRateData()->build(),
-                    ),
+                    'heartRateDistributionChart' => $heartRateData ? Json::encode(
+                        HeartRateDistributionChartBuilder::fromHeartRateData(
+                            heartRateData: $heartRateData,
+                            averageHeartRate: $activity->getAverageHeartRate(),
+                            athleteMaxHeartRate: $activity->getAthleteMaxHeartRate()
+                        )->build(),
+                    ) : null,
+                    'powerDistributionChart' => $powerData ? Json::encode(
+                        PowerDistributionChartBuilder::fromPowerData(
+                            powerData: $powerData,
+                            averagePower: $activity->getAveragePower(),
+                        )->build(),
+                    ) : null,
                 ]),
             );
         }
