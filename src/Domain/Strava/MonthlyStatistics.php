@@ -10,22 +10,13 @@ use App\Domain\Strava\Challenge\ChallengeCollection;
 use App\Infrastructure\ValueObject\Time\SerializableDateTime;
 use Carbon\CarbonInterval;
 
-final class MonthlyStatistics
+final readonly class MonthlyStatistics
 {
-    private SerializableDateTime $startDate;
-
     private function __construct(
-        private readonly ActivityCollection $activities,
-        private readonly ChallengeCollection $challenges,
-        private readonly SerializableDateTime $now,
+        private ActivityCollection $activities,
+        private ChallengeCollection $challenges,
+        private SerializableDateTime $now,
     ) {
-        $this->startDate = new SerializableDateTime();
-        foreach ($this->activities as $activity) {
-            if ($activity->getStartDate()->isAfterOrOn($this->startDate)) {
-                continue;
-            }
-            $this->startDate = $activity->getStartDate();
-        }
     }
 
     public static function fromActivitiesAndChallenges(
@@ -42,10 +33,11 @@ final class MonthlyStatistics
     public function getRows(): array
     {
         $statistics = [];
+        $startDate = $this->activities->getFirstActivityStartDate();
 
         $interval = new \DateInterval('P1M');
         $period = new \DatePeriod(
-            $this->startDate->modify('first day of this month'),
+            $startDate->modify('first day of this month'),
             $interval,
             $this->now->modify('last day of this month')
         );
@@ -62,7 +54,6 @@ final class MonthlyStatistics
                     $this->challenges->toArray(),
                     fn (Challenge $challenge) => $challenge->getCreatedOn()->format('Ym') == $date->format('Ym')
                 )),
-                'gears' => [],
             ];
         }
 
@@ -72,29 +63,10 @@ final class MonthlyStatistics
         foreach ($this->activities as $activity) {
             $month = $activity->getStartDate()->format('Ym');
 
-            if (!isset($statistics[$month]['gears'][$activity->getGearId()])) {
-                $statistics[$month]['gears'][$activity->getGearId()] = [
-                    'name' => $activity->getGearName(),
-                    'distance' => 0,
-                ];
-            }
-
             ++$statistics[$month]['numberOfRides'];
             $statistics[$month]['totalDistance'] += $activity->getDistance();
             $statistics[$month]['totalElevation'] += $activity->getElevation();
             $statistics[$month]['movingTime'] += $activity->getMovingTimeInSeconds();
-            $statistics[$month]['gears'][$activity->getGearId()]['distance'] += $activity->getDistance();
-
-            // Sort gears by gears.
-            $gears = $statistics[$month]['gears'];
-            uasort($gears, function (array $a, array $b) {
-                if ($a['distance'] == $b['distance']) {
-                    return 0;
-                }
-
-                return ($a['distance'] < $b['distance']) ? 1 : -1;
-            });
-            $statistics[$month]['gears'] = $gears;
         }
 
         $statistics = array_filter($statistics, fn (array $statistic) => $statistic['numberOfRides'] > 0);
