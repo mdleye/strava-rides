@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `2618 days` ago on `22-09-2016`,
+Since I began cycling `2619 days` ago on `22-09-2016`,
 I had `659 cycling days`.<br />
 I recorded a total distance of `23 311 km`
 (`0.58` trips around the world 🌍 and
@@ -790,7 +790,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
         <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th># of rides</th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
-        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="30" alt="Gear" title="Gear"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/challenge2.svg" width="30" alt="completed challenges" title="completed challenges"/></th>
@@ -801,13 +800,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">November 2023</td>
             <td align="center">5</td>
             <td align="center">112 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 54 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 34 <sup><sub>km</sub></sup></li>
-                                            <li><b>Cyclo Studio Bike</b>: 24 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">81 <sup><sub>m</sub></sup></td>
             <td align="center">4h 10m</td>
             <td align="center">13</td>
@@ -816,15 +808,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">October 2023</td>
             <td align="center">8</td>
             <td align="center">254 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 102 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 58 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 50 <sup><sub>km</sub></sup></li>
-                                            <li><b>Cyclo Studio Bike</b>: 29 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 15 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 254 <sup><sub>m</sub></sup></td>
             <td align="center">10h 37m</td>
             <td align="center">22</td>
@@ -833,14 +816,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2023</td>
             <td align="center">10</td>
             <td align="center">597 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Ridley Fenix</b>: 305 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 212 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 43 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 37 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 672 <sup><sub>m</sub></sup></td>
             <td align="center">1d 2h 56m</td>
             <td align="center">20</td>
@@ -849,13 +824,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">August 2023</td>
             <td align="center">9</td>
             <td align="center">329 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Ridley Fenix</b>: 272 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 30 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 27 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">520 <sup><sub>m</sub></sup></td>
             <td align="center">11h 33m</td>
             <td align="center">17</td>
@@ -864,13 +832,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">July 2023</td>
             <td align="center">6</td>
             <td align="center">221 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Ridley Fenix</b>: 135 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 56 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 30 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">319 <sup><sub>m</sub></sup></td>
             <td align="center">8h 44m</td>
             <td align="center">19</td>
@@ -879,12 +840,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">June 2023</td>
             <td align="center">11</td>
             <td align="center">449 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 429 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 20 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">849 <sup><sub>m</sub></sup></td>
             <td align="center">16h 6m</td>
             <td align="center">28</td>
@@ -893,12 +848,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2023</td>
             <td align="center">12</td>
             <td align="center">637 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 520 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 117 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 192 <sup><sub>m</sub></sup></td>
             <td align="center">1d 19m</td>
             <td align="center">35</td>
@@ -907,13 +856,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">April 2023</td>
             <td align="center">14</td>
             <td align="center">601 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 489 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 69 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 43 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 013 <sup><sub>m</sub></sup></td>
             <td align="center">1d 43m</td>
             <td align="center">34</td>
@@ -922,14 +864,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">March 2023</td>
             <td align="center">8</td>
             <td align="center">237 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 129 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 41 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 37 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 30 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">366 <sup><sub>m</sub></sup></td>
             <td align="center">9h 20m</td>
             <td align="center">20</td>
@@ -938,14 +872,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">February 2023</td>
             <td align="center">13</td>
             <td align="center">310 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 207 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 46 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 42 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 15 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">484 <sup><sub>m</sub></sup></td>
             <td align="center">12h 42m</td>
             <td align="center">16</td>
@@ -954,14 +880,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">January 2023</td>
             <td align="center">12</td>
             <td align="center">330 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Kona Honzo MTB</b>: 114 <sup><sub>km</sub></sup></li>
-                                            <li><b>Cyclo Studio Bike</b>: 110 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 76 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 30 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">404 <sup><sub>m</sub></sup></td>
             <td align="center">13h 44m</td>
             <td align="center">15</td>
@@ -970,14 +888,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">December 2022</td>
             <td align="center">7</td>
             <td align="center">229 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Kona Honzo MTB</b>: 146 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 32 <sup><sub>km</sub></sup></li>
-                                            <li><b>Cyclo Studio Bike</b>: 28 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 23 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 579 <sup><sub>m</sub></sup></td>
             <td align="center">11h 17m</td>
             <td align="center">11</td>
@@ -986,13 +896,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">November 2022</td>
             <td align="center">7</td>
             <td align="center">173 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 67 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 54 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 52 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">665 <sup><sub>m</sub></sup></td>
             <td align="center">7h 53m</td>
             <td align="center">16</td>
@@ -1001,13 +904,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">October 2022</td>
             <td align="center">7</td>
             <td align="center">165 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Kona Honzo MTB</b>: 93 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 48 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 24 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">219 <sup><sub>m</sub></sup></td>
             <td align="center">8h 43m</td>
             <td align="center">13</td>
@@ -1016,11 +912,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2022</td>
             <td align="center">2</td>
             <td align="center">97 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 97 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 311 <sup><sub>m</sub></sup></td>
             <td align="center">4h 25m</td>
             <td align="center">6</td>
@@ -1029,12 +920,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">August 2022</td>
             <td align="center">3</td>
             <td align="center">120 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 90 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 30 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">135 <sup><sub>m</sub></sup></td>
             <td align="center">4h 37m</td>
             <td align="center">6</td>
@@ -1043,13 +928,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">July 2022</td>
             <td align="center">8</td>
             <td align="center">249 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 135 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 63 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 51 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">223 <sup><sub>m</sub></sup></td>
             <td align="center">10h 16m</td>
             <td align="center">23</td>
@@ -1058,12 +936,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">June 2022</td>
             <td align="center">6</td>
             <td align="center">193 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Kona Honzo MTB</b>: 156 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 37 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 061 <sup><sub>m</sub></sup></td>
             <td align="center">12h 23m</td>
             <td align="center">33</td>
@@ -1072,12 +944,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2022</td>
             <td align="center">15</td>
             <td align="center">266 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 231 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 35 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">375 <sup><sub>m</sub></sup></td>
             <td align="center">11h 53m</td>
             <td align="center">25</td>
@@ -1086,13 +952,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">April 2022</td>
             <td align="center">15</td>
             <td align="center">317 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 129 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 102 <sup><sub>km</sub></sup></li>
-                                            <li><b>Kona Honzo MTB</b>: 86 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">423 <sup><sub>m</sub></sup></td>
             <td align="center">14h 10m</td>
             <td align="center">34</td>
@@ -1101,13 +960,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">March 2022</td>
             <td align="center">18</td>
             <td align="center">362 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Kona Honzo MTB</b>: 134 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 125 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 103 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">485 <sup><sub>m</sub></sup></td>
             <td align="center">16h</td>
             <td align="center">23</td>
@@ -1116,11 +968,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">February 2022</td>
             <td align="center">13</td>
             <td align="center">274 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 274 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">386 <sup><sub>m</sub></sup></td>
             <td align="center">11h 53m</td>
             <td align="center">10</td>
@@ -1129,13 +976,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">January 2022</td>
             <td align="center">9</td>
             <td align="center">220 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 97 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 91 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 32 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">131 <sup><sub>m</sub></sup></td>
             <td align="center">8h 50m</td>
             <td align="center">30</td>
@@ -1144,12 +984,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">December 2021</td>
             <td align="center">10</td>
             <td align="center">321 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 231 <sup><sub>km</sub></sup></li>
-                                            <li><b>Specialized Crave MTB</b>: 90 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">491 <sup><sub>m</sub></sup></td>
             <td align="center">15h</td>
             <td align="center">8</td>
@@ -1158,11 +992,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">November 2021</td>
             <td align="center">1</td>
             <td align="center">25 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 25 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
             <td align="center">50m</td>
             <td align="center">14</td>
@@ -1171,11 +1000,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">October 2021</td>
             <td align="center">2</td>
             <td align="center">58 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 58 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
             <td align="center">2h</td>
             <td align="center">21</td>
@@ -1184,13 +1008,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2021</td>
             <td align="center">15</td>
             <td align="center">506 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 204 <sup><sub>km</sub></sup></li>
-                                            <li><b>Specialized Crave MTB</b>: 200 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 102 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 774 <sup><sub>m</sub></sup></td>
             <td align="center">23h 43m</td>
             <td align="center">32</td>
@@ -1199,13 +1016,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">August 2021</td>
             <td align="center">6</td>
             <td align="center">231 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 100 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 77 <sup><sub>km</sub></sup></li>
-                                            <li><b>Specialized Crave MTB</b>: 54 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">994 <sup><sub>m</sub></sup></td>
             <td align="center">11h 4m</td>
             <td align="center">24</td>
@@ -1214,12 +1024,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">July 2021</td>
             <td align="center">10</td>
             <td align="center">195 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 184 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 11 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">275 <sup><sub>m</sub></sup></td>
             <td align="center">9h 3m</td>
             <td align="center">8</td>
@@ -1228,13 +1032,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">June 2021</td>
             <td align="center">20</td>
             <td align="center">556 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Specialized Crave MTB</b>: 283 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 200 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 73 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 375 <sup><sub>m</sub></sup></td>
             <td align="center">1d 3h 58m</td>
             <td align="center">2</td>
@@ -1243,12 +1040,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2021</td>
             <td align="center">16</td>
             <td align="center">403 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 267 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 136 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">436 <sup><sub>m</sub></sup></td>
             <td align="center">17h 19m</td>
             <td align="center">1</td>
@@ -1257,12 +1048,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">April 2021</td>
             <td align="center">19</td>
             <td align="center">358 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 234 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 124 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">479 <sup><sub>m</sub></sup></td>
             <td align="center">15h 26m</td>
             <td align="center">3</td>
@@ -1271,12 +1056,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">March 2021</td>
             <td align="center">16</td>
             <td align="center">275 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 224 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 51 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">324 <sup><sub>m</sub></sup></td>
             <td align="center">12h 29m</td>
             <td align="center">4</td>
@@ -1285,12 +1064,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">February 2021</td>
             <td align="center">10</td>
             <td align="center">117 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 114 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 3 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">127 <sup><sub>m</sub></sup></td>
             <td align="center">5h 16m</td>
             <td align="center">4</td>
@@ -1299,12 +1072,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">January 2021</td>
             <td align="center">6</td>
             <td align="center">122 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Ridley Blast MTB</b>: 61 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 61 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">148 <sup><sub>m</sub></sup></td>
             <td align="center">5h 51m</td>
             <td align="center">3</td>
@@ -1313,13 +1080,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">December 2020</td>
             <td align="center">29</td>
             <td align="center">1 177 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 580 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 361 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 236 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 289 <sup><sub>m</sub></sup></td>
             <td align="center">2d 43m</td>
             <td align="center">7</td>
@@ -1328,13 +1088,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">November 2020</td>
             <td align="center">35</td>
             <td align="center">1 319 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Ridley Blast MTB</b>: 562 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 476 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 281 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 470 <sup><sub>m</sub></sup></td>
             <td align="center">2d 7h 34m</td>
             <td align="center">9</td>
@@ -1343,13 +1096,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">October 2020</td>
             <td align="center">23</td>
             <td align="center">758 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Ridley Blast MTB</b>: 472 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 181 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 105 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">880 <sup><sub>m</sub></sup></td>
             <td align="center">1d 9h 26m</td>
             <td align="center">11</td>
@@ -1358,13 +1104,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2020</td>
             <td align="center">25</td>
             <td align="center">998 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 658 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 290 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 50 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">3 418 <sup><sub>m</sub></sup></td>
             <td align="center">1d 16h 42m</td>
             <td align="center">11</td>
@@ -1373,13 +1112,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">August 2020</td>
             <td align="center">12</td>
             <td align="center">508 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 266 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 189 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 53 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">8 082 <sup><sub>m</sub></sup></td>
             <td align="center">1d 2h 15m</td>
             <td align="center">6</td>
@@ -1388,12 +1120,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">July 2020</td>
             <td align="center">18</td>
             <td align="center">718 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 427 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 291 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 084 <sup><sub>m</sub></sup></td>
             <td align="center">1d 5h 46m</td>
             <td align="center">11</td>
@@ -1402,13 +1128,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">June 2020</td>
             <td align="center">22</td>
             <td align="center">909 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 551 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 195 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 163 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 562 <sup><sub>m</sub></sup></td>
             <td align="center">1d 12h 40m</td>
             <td align="center">9</td>
@@ -1417,13 +1136,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2020</td>
             <td align="center">24</td>
             <td align="center">1 053 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 632 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 295 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 126 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 766 <sup><sub>m</sub></sup></td>
             <td align="center">1d 20h 8m</td>
             <td align="center">10</td>
@@ -1432,13 +1144,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">April 2020</td>
             <td align="center">19</td>
             <td align="center">1 043 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 777 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 196 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 70 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 793 <sup><sub>m</sub></sup></td>
             <td align="center">1d 18h 34m</td>
             <td align="center">11</td>
@@ -1447,13 +1152,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">March 2020</td>
             <td align="center">24</td>
             <td align="center">959 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 716 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 206 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 37 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 048 <sup><sub>m</sub></sup></td>
             <td align="center">1d 13h 20m</td>
             <td align="center">7</td>
@@ -1462,12 +1160,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">February 2020</td>
             <td align="center">7</td>
             <td align="center">194 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 141 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 53 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">605 <sup><sub>m</sub></sup></td>
             <td align="center">7h 59m</td>
             <td align="center">3</td>
@@ -1476,12 +1168,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">January 2020</td>
             <td align="center">19</td>
             <td align="center">404 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 222 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 182 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 211 <sup><sub>m</sub></sup></td>
             <td align="center">18h 46m</td>
             <td align="center">4</td>
@@ -1490,12 +1176,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">December 2019</td>
             <td align="center">7</td>
             <td align="center">156 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 102 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 54 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">587 <sup><sub>m</sub></sup></td>
             <td align="center">7h 42m</td>
             <td align="center">4</td>
@@ -1504,12 +1184,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">November 2019</td>
             <td align="center">15</td>
             <td align="center">266 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 134 <sup><sub>km</sub></sup></li>
-                                            <li><b>Ridley Blast MTB</b>: 132 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 098 <sup><sub>m</sub></sup></td>
             <td align="center">12h</td>
             <td align="center">8</td>
@@ -1518,13 +1192,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">October 2019</td>
             <td align="center">31</td>
             <td align="center">491 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 320 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 90 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 81 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 977 <sup><sub>m</sub></sup></td>
             <td align="center">20h 26m</td>
             <td align="center">22</td>
@@ -1533,12 +1200,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2019</td>
             <td align="center">22</td>
             <td align="center">652 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 370 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 282 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 324 <sup><sub>m</sub></sup></td>
             <td align="center">1d 21h 46m</td>
             <td align="center">20</td>
@@ -1547,12 +1208,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">August 2019</td>
             <td align="center">13</td>
             <td align="center">431 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 241 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 190 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 580 <sup><sub>m</sub></sup></td>
             <td align="center">16h 31m</td>
             <td align="center">7</td>
@@ -1561,13 +1216,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">July 2019</td>
             <td align="center">14</td>
             <td align="center">446 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 237 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 188 <sup><sub>km</sub></sup></li>
-                                            <li><b>Other</b>: 21 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">2 066 <sup><sub>m</sub></sup></td>
             <td align="center">17h 52m</td>
             <td align="center">13</td>
@@ -1576,12 +1224,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">June 2019</td>
             <td align="center">14</td>
             <td align="center">460 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 337 <sup><sub>km</sub></sup></li>
-                                            <li><b>Bianchi Impulso 105</b>: 123 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">1 944 <sup><sub>m</sub></sup></td>
             <td align="center">18h 17m</td>
             <td align="center">6</td>
@@ -1590,12 +1232,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2019</td>
             <td align="center">5</td>
             <td align="center">247 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 162 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 85 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">976 <sup><sub>m</sub></sup></td>
             <td align="center">10h 11m</td>
             <td align="center">4</td>
@@ -1604,12 +1240,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">April 2019</td>
             <td align="center">2</td>
             <td align="center">71 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Bianchi Impulso 105</b>: 50 <sup><sub>km</sub></sup></li>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 21 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">138 <sup><sub>m</sub></sup></td>
             <td align="center">2h 48m</td>
             <td align="center">0</td>
@@ -1618,11 +1248,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">March 2019</td>
             <td align="center">1</td>
             <td align="center">6 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>State Bicycle Rutherford 3.0</b>: 6 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">12 <sup><sub>m</sub></sup></td>
             <td align="center">14m</td>
             <td align="center">0</td>
@@ -1631,11 +1256,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2018</td>
             <td align="center">2</td>
             <td align="center">57 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 57 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">125 <sup><sub>m</sub></sup></td>
             <td align="center">2h 38m</td>
             <td align="center">0</td>
@@ -1644,11 +1264,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">June 2018</td>
             <td align="center">2</td>
             <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 24 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">77 <sup><sub>m</sub></sup></td>
             <td align="center">1h 21m</td>
             <td align="center">0</td>
@@ -1657,11 +1272,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2018</td>
             <td align="center">1</td>
             <td align="center">12 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 12 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">29 <sup><sub>m</sub></sup></td>
             <td align="center">1h 7m</td>
             <td align="center">0</td>
@@ -1670,11 +1280,6 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">May 2017</td>
             <td align="center">3</td>
             <td align="center">32 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 32 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">115 <sup><sub>m</sub></sup></td>
             <td align="center">1h 19m</td>
             <td align="center">0</td>
@@ -1683,33 +1288,33 @@ I burned `535773 calories` doing so, that's about `1 984` pizza slices 🍕
             <td align="center">September 2016</td>
             <td align="center">1</td>
             <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td>
-                <ul>
-                                            <li><b>Other</b>: 11 <sup><sub>km</sub></sup></li>
-                                    </ul>
-            </td>
             <td align="center">38 <sup><sub>m</sub></sup></td>
             <td align="center">37m</td>
             <td align="center">0</td>
         </tr>
         <tr>
-        <td align="center" rowspan="3"><b>Totals</b></td>
         <td align="center"><b>Virtual/Indoor</b></td>
-        <td align="center" colspan="2"><b>469 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>16</td>
+        <td align="center"><b>469 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>0 <sup><sub>m</sub></sup></b></td>
-        <td align="center" colspan="2"><b>14h 25m</b></td>
+        <td align="center"><b>14h 25m</b></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center" colspan="2"><b>22 842 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>723</td>
+        <td align="center"><b>22 842 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>68 864 <sup><sub>m</sub></sup></b></td>
-        <td align="center" colspan="2"><b>1mo 1w 6d 13h 56m</b></td>
+        <td align="center"><b>1mo 1w 6d 13h 56m</b></td>
+        <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center" colspan="2"><b>23 311 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>739</td>
+        <td align="center"><b>23 311 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>68 864 <sup><sub>m</sub></sup></b></td>
-        <td align="center" colspan="2"><b>1mo 2w 4h 22m</b></td>
+        <td align="center"><b>1mo 2w 4h 22m</b></td>
+        <td align="center"></td>
     </tr>
     </tbody>
 </table>
