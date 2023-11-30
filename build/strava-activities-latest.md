@@ -13,7 +13,7 @@
             <td>29-11-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10300687833" title="Kcal: 359 | Gear: None ">Donor-lunch-date</a>
+                <a href="https://www.strava.com/activities/10300687833" title="Kcal: 359 | Gear: None ">Donor-lunch-date 💉🅾️➕</a>
             </td>
             <td align="center">14 <sup><sub>km</sub></sup></td>
             <td align="center">42 <sup><sub>m</sub></sup></td>
