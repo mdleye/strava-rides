@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Domain\Strava\Activity;
 
+use App\Domain\Strava\Calendar\Month;
 use App\Infrastructure\ValueObject\Collection;
 use App\Infrastructure\ValueObject\Time\SerializableDateTime;
 
@@ -35,6 +36,30 @@ final class ActivityCollection extends Collection
         return ActivityCollection::fromArray(array_filter(
             $this->toArray(),
             fn (Activity $activity) => $activity->getStartDate()->format('Ymd') === $date->format('Ymd')
+        ));
+    }
+
+    public function filterOnMonth(Month $month): ActivityCollection
+    {
+        return ActivityCollection::fromArray(array_filter(
+            $this->toArray(),
+            fn (Activity $activity) => $activity->getStartDate()->format(Month::MONTH_ID_FORMAT) === $month->getId()
+        ));
+    }
+
+    public function filterOnDateRange(SerializableDateTime $fromDate, SerializableDateTime $toDate): ActivityCollection
+    {
+        return ActivityCollection::fromArray(array_filter(
+            $this->toArray(),
+            fn (Activity $activity) => $activity->getStartDate()->isAfterOrOn($fromDate) && $activity->getStartDate()->isBeforeOrOn($toDate)
+        ));
+    }
+
+    public function filterOnActivityType(ActivityType $activityType): ActivityCollection
+    {
+        return ActivityCollection::fromArray(array_filter(
+            $this->toArray(),
+            fn (Activity $activity) => $activityType === $activity->getType()
         ));
     }
 }
