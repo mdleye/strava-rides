@@ -13,25 +13,27 @@
             "bottom": "3%",
             "containLabel": true
         },
+        "dataZoom": [],
         "xAxis": [
             {
-                "type": "time",
+                "type": "category",
                 "boundaryGap": false,
                 "axisTick": {
                     "show": false
                 },
-                "axisLabel": {
-                    "formatter": {
-                        "year": "{yyyy}",
-                        "month": "{MMM}",
-                        "day": "",
-                        "hour": "{HH}:{mm}",
-                        "minute": "{HH}:{mm}",
-                        "second": "{HH}:{mm}:{ss}",
-                        "millisecond": "{hh}:{mm}:{ss} {SSS}",
-                        "none": "{yyyy}-{MM}-{dd} {hh}:{mm}:{ss} {SSS}"
-                    }
-                },
+                "data": [
+                    "",
+                    "Sep 2023",
+                    "Oct 2023",
+                    "",
+                    "",
+                    "",
+                    "Nov 2023",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
                 "splitLine": {
                     "show": true,
                     "lineStyle": {
@@ -48,7 +50,8 @@
                 },
                 "axisLabel": {
                     "formatter": "{value} km"
-                }
+                },
+                "max": 150
             }
         ],
         "series": [
@@ -74,50 +77,17 @@
                     "focus": "series"
                 },
                 "data": [
-                    [
-                        "2023-09-18",
-                        43
-                    ],
-                    [
-                        "2023-09-25",
-                        83
-                    ],
-                    [
-                        "2023-10-02",
-                        70
-                    ],
-                    [
-                        "2023-10-09",
-                        15
-                    ],
-                    [
-                        "2023-10-16",
-                        0
-                    ],
-                    [
-                        "2023-10-23",
-                        111
-                    ],
-                    [
-                        "2023-10-30",
-                        82
-                    ],
-                    [
-                        "2023-11-06",
-                        17
-                    ],
-                    [
-                        "2023-11-13",
-                        71
-                    ],
-                    [
-                        "2023-11-20",
-                        62
-                    ],
-                    [
-                        "2023-11-27",
-                        143
-                    ]
+                    43,
+                    83,
+                    70,
+                    15,
+                    0,
+                    112,
+                    82,
+                    17,
+                    70,
+                    62,
+                    143
                 ]
             }
         ]
