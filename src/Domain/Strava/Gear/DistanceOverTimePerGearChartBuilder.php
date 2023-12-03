@@ -52,7 +52,11 @@ final readonly class DistanceOverTimePerGearChartBuilder
                 continue;
             }
             $month = $activity->getStartDate()->format(Month::MONTH_ID_FORMAT);
-            $distancePerGearAndMonth[$activity->getGearId()][$month] += $activity->getDistance();
+            $distancePerGearAndMonth[$activity->getGearId()][$month] += $activity->getDistanceInKilometer();
+        }
+
+        foreach ($distancePerGearAndMonth as $gearId => $months) {
+            $distancePerGearAndMonth[$gearId] = array_map('round', $months);
         }
 
         $series = [];
@@ -104,15 +108,6 @@ final readonly class DistanceOverTimePerGearChartBuilder
             ],
             'legend' => [
                 'selected' => $selectedSeries,
-            ],
-            'toolbox' => [
-                'feature' => [
-                    'dataZoom' => [
-                        'yAxisIndex' => 'none',
-                    ],
-                    'restore' => [
-                    ],
-                ],
             ],
             'xAxis' => [
                 [

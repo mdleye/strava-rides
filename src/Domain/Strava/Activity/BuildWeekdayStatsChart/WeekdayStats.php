@@ -28,7 +28,7 @@ final readonly class WeekdayStats
     {
         $statistics = [];
         $daysOfTheWeekMap = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-        $totalMovingTime = array_sum(array_map(fn (Activity $activity) => $activity->getMovingTimeInSeconds(), $this->activities->toArray()));
+        $totalMovingTime = $this->activities->sum(fn (Activity $activity) => $activity->getMovingTimeInSeconds());
 
         foreach ([1, 2, 3, 4, 5, 6, 0] as $weekDay) {
             $statistics[$daysOfTheWeekMap[$weekDay]] = [
@@ -47,8 +47,8 @@ final readonly class WeekdayStats
             $weekDay = $daysOfTheWeekMap[$activity->getStartDate()->format('w')];
 
             ++$statistics[$weekDay]['numberOfRides'];
-            $statistics[$weekDay]['totalDistance'] += $activity->getDistance();
-            $statistics[$weekDay]['totalElevation'] += $activity->getElevation();
+            $statistics[$weekDay]['totalDistance'] += $activity->getDistanceInKilometer();
+            $statistics[$weekDay]['totalElevation'] += $activity->getElevationInMeter();
             $statistics[$weekDay]['movingTime'] += $activity->getMovingTimeInSeconds();
             $statistics[$weekDay]['averageDistance'] = $statistics[$weekDay]['totalDistance'] / $statistics[$weekDay]['numberOfRides'];
             if ($statistics[$weekDay]['movingTime'] > 0) {

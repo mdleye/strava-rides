@@ -27,7 +27,7 @@ final readonly class DaytimeStats
     public function getData(): array
     {
         $statistics = [];
-        $totalMovingTime = array_sum(array_map(fn (Activity $activity) => $activity->getMovingTimeInSeconds(), $this->activities->toArray()));
+        $totalMovingTime = $this->activities->sum(fn (Activity $activity) => $activity->getMovingTimeInSeconds());
 
         foreach (Daytime::cases() as $daytime) {
             $statistics[$daytime->value] = [
@@ -47,8 +47,8 @@ final readonly class DaytimeStats
             $daytime = Daytime::fromSerializableDateTime($activity->getStartDate());
 
             ++$statistics[$daytime->value]['numberOfRides'];
-            $statistics[$daytime->value]['totalDistance'] += $activity->getDistance();
-            $statistics[$daytime->value]['totalElevation'] += $activity->getElevation();
+            $statistics[$daytime->value]['totalDistance'] += $activity->getDistanceInKilometer();
+            $statistics[$daytime->value]['totalElevation'] += $activity->getElevationInMeter();
             $statistics[$daytime->value]['movingTime'] += $activity->getMovingTimeInSeconds();
             $statistics[$daytime->value]['averageDistance'] = $statistics[$daytime->value]['totalDistance'] / $statistics[$daytime->value]['numberOfRides'];
             if ($statistics[$daytime->value]['movingTime'] > 0) {

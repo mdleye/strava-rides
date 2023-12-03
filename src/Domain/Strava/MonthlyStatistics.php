@@ -52,8 +52,7 @@ final readonly class MonthlyStatistics
                 'totalElevation' => 0,
                 'totalCalories' => 0,
                 'movingTimeInSeconds' => 0,
-                'challengesCompleted' => count(array_filter(
-                    $this->challenges->toArray(),
+                'challengesCompleted' => count($this->challenges->filter(
                     fn (Challenge $challenge) => $challenge->getCreatedOn()->format(Month::MONTH_ID_FORMAT) == $month->getId()
                 )),
             ];
@@ -66,8 +65,8 @@ final readonly class MonthlyStatistics
             $month = $activity->getStartDate()->format(Month::MONTH_ID_FORMAT);
 
             ++$statistics[$month]['numberOfRides'];
-            $statistics[$month]['totalDistance'] += $activity->getDistance();
-            $statistics[$month]['totalElevation'] += $activity->getElevation();
+            $statistics[$month]['totalDistance'] += $activity->getDistanceInKilometer();
+            $statistics[$month]['totalElevation'] += $activity->getElevationInMeter();
             $statistics[$month]['movingTimeInSeconds'] += $activity->getMovingTimeInSeconds();
             $statistics[$month]['totalCalories'] += $activity->getCalories();
         }
@@ -130,14 +129,12 @@ final readonly class MonthlyStatistics
      */
     private function getTotalsForActivities(ActivityCollection $activities): array
     {
-        $activities = $activities->toArray();
-
         return [
             'numberOfRides' => count($activities),
-            'totalDistance' => array_sum(array_map(fn (Activity $activity) => $activity->getDistance(), $activities)),
-            'totalElevation' => array_sum(array_map(fn (Activity $activity) => $activity->getElevation(), $activities)),
-            'totalCalories' => array_sum(array_map(fn (Activity $activity) => $activity->getCalories(), $activities)),
-            'movingTime' => CarbonInterval::seconds(array_sum(array_map(fn (Activity $activity) => $activity->getMovingTimeInSeconds(), $activities)))->cascade()->forHumans(['short' => true, 'minimumUnit' => 'minute']),
+            'totalDistance' => $activities->sum(fn (Activity $activity) => $activity->getDistanceInKilometer()),
+            'totalElevation' => $activities->sum(fn (Activity $activity) => $activity->getElevationInMeter()),
+            'totalCalories' => $activities->sum(fn (Activity $activity) => $activity->getCalories()),
+            'movingTime' => CarbonInterval::seconds($activities->sum(fn (Activity $activity) => $activity->getMovingTimeInSeconds()))->cascade()->forHumans(['short' => true, 'minimumUnit' => 'minute']),
         ];
     }
 }

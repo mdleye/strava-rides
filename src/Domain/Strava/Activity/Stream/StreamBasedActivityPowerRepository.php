@@ -3,7 +3,6 @@
 namespace App\Domain\Strava\Activity\Stream;
 
 use App\Domain\Strava\Activity\ActivityRepository;
-use App\Domain\Strava\PowerOutput;
 use Carbon\CarbonInterval;
 
 final class StreamBasedActivityPowerRepository implements ActivityPowerRepository
@@ -27,17 +26,19 @@ final class StreamBasedActivityPowerRepository implements ActivityPowerRepositor
         }
 
         $activities = $this->activityRepository->findAll();
-        $powerStreams = $this->activityStreamRepository->findByStreamType(StreamType::WATTS)->toArray();
+        $powerStreams = $this->activityStreamRepository->findByStreamType(StreamType::WATTS);
 
         foreach ($activities as $activity) {
             StreamBasedActivityPowerRepository::$cachedPowerOutputs[$activity->getId()] = [];
-            $powerStreamsForActivity = array_filter($powerStreams, fn (ActivityStream $stream) => $stream->getActivityId() == $activity->getId());
+            $powerStreamsForActivity = $powerStreams->filter(fn (ActivityStream $stream) => $stream->getActivityId() == $activity->getId());
 
-            if (!$powerStreamsForActivity) {
+            if ($powerStreamsForActivity->isEmpty()) {
                 continue;
             }
 
-            $stream = PowerStream::fromStream(reset($powerStreamsForActivity));
+            /** @var \App\Domain\Strava\Activity\Stream\ActivityStream $activityStream */
+            $activityStream = $powerStreamsForActivity->getFirst();
+            $stream = PowerStream::fromStream($activityStream);
             foreach (self::TIME_INTERVAL_IN_SECONDS as $timeIntervalInSeconds) {
                 $interval = CarbonInterval::seconds($timeIntervalInSeconds);
                 if (!$bestAverageForTimeInterval = $stream->getBestAverageForTimeInterval($timeIntervalInSeconds)) {
@@ -82,14 +83,13 @@ final class StreamBasedActivityPowerRepository implements ActivityPowerRepositor
     }
 
     /**
-     * @return array<mixed>
+     * @return PowerOutput[]
      */
     public function findBest(): array
     {
         /** @var \App\Domain\Strava\Activity\Stream\PowerStream[] $powerStreams */
-        $powerStreams = array_map(
+        $powerStreams = $this->activityStreamRepository->findByStreamType(StreamType::WATTS)->map(
             fn (ActivityStream $stream) => PowerStream::fromStream($stream),
-            $this->activityStreamRepository->findByStreamType(StreamType::WATTS)->toArray()
         );
 
         /** @var PowerOutput[] $best */

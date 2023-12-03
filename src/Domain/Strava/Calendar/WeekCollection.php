@@ -8,30 +8,31 @@ use App\Infrastructure\ValueObject\Collection;
 use App\Infrastructure\ValueObject\Time\SerializableDateTime;
 
 /**
- * @extends Collection<Month>
+ * @extends Collection<Week>
  */
-final class MonthCollection extends Collection
+final class WeekCollection extends Collection
 {
     public function getItemClassName(): string
     {
-        return Month::class;
+        return Week::class;
     }
 
     public static function create(
         SerializableDateTime $startDate,
         SerializableDateTime $now
     ): self {
-        $months = MonthCollection::empty();
+        $weeks = WeekCollection::empty();
+
         $period = new \DatePeriod(
-            $startDate->modify('first day of this month'),
-            new \DateInterval('P1M'),
-            $now->modify('last day of this month')
+            $startDate,
+            new \DateInterval('P1W'),
+            $now
         );
 
         foreach ($period as $date) {
-            $months->add(Month::fromDate(SerializableDateTime::fromDateTimeImmutable($date)));
+            $weeks->add(Week::fromDate(SerializableDateTime::fromDateTimeImmutable($date)));
         }
 
-        return $months;
+        return $weeks;
     }
 }

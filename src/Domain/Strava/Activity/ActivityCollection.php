@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Domain\Strava\Activity;
 
 use App\Domain\Strava\Calendar\Month;
+use App\Domain\Strava\Calendar\Week;
 use App\Infrastructure\ValueObject\Collection;
 use App\Infrastructure\ValueObject\Time\SerializableDateTime;
 
@@ -33,33 +34,26 @@ final class ActivityCollection extends Collection
 
     public function filterOnDate(SerializableDateTime $date): ActivityCollection
     {
-        return ActivityCollection::fromArray(array_filter(
-            $this->toArray(),
-            fn (Activity $activity) => $activity->getStartDate()->format('Ymd') === $date->format('Ymd')
-        ));
+        return $this->filter(fn (Activity $activity) => $activity->getStartDate()->format('Ymd') === $date->format('Ymd'));
     }
 
     public function filterOnMonth(Month $month): ActivityCollection
     {
-        return ActivityCollection::fromArray(array_filter(
-            $this->toArray(),
-            fn (Activity $activity) => $activity->getStartDate()->format(Month::MONTH_ID_FORMAT) === $month->getId()
-        ));
+        return $this->filter(fn (Activity $activity) => $activity->getStartDate()->format(Month::MONTH_ID_FORMAT) === $month->getId());
+    }
+
+    public function filterOnWeek(Week $week): ActivityCollection
+    {
+        return $this->filter(fn (Activity $activity) => $activity->getStartDate()->format(Week::WEEK_ID_FORMAT) === $week->getId());
     }
 
     public function filterOnDateRange(SerializableDateTime $fromDate, SerializableDateTime $toDate): ActivityCollection
     {
-        return ActivityCollection::fromArray(array_filter(
-            $this->toArray(),
-            fn (Activity $activity) => $activity->getStartDate()->isAfterOrOn($fromDate) && $activity->getStartDate()->isBeforeOrOn($toDate)
-        ));
+        return $this->filter(fn (Activity $activity) => $activity->getStartDate()->isAfterOrOn($fromDate) && $activity->getStartDate()->isBeforeOrOn($toDate));
     }
 
     public function filterOnActivityType(ActivityType $activityType): ActivityCollection
     {
-        return ActivityCollection::fromArray(array_filter(
-            $this->toArray(),
-            fn (Activity $activity) => $activityType === $activity->getType()
-        ));
+        return $this->filter(fn (Activity $activity) => $activityType === $activity->getType());
     }
 }

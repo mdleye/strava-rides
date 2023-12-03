@@ -11,32 +11,32 @@ final readonly class ActivityHighlights
 
     public function getLongestDistance(): float
     {
-        return max(array_map(fn (Activity $activity) => $activity->getDistance(), $this->activities->toArray()));
+        return $this->activities->max(fn (Activity $activity) => $activity->getDistanceInKilometer());
     }
 
-    public function getHighestElevation(): int
+    public function getHighestElevation(): float
     {
-        return max(array_map(fn (Activity $activity) => $activity->getElevation(), $this->activities->toArray()));
+        return $this->activities->max(fn (Activity $activity) => $activity->getElevationInMeter());
     }
 
     public function getHighestAveragePower(): int
     {
-        return (int) max(array_map(fn (Activity $activity) => $activity->getAveragePower(), $this->activities->toArray()));
+        return (int) $this->activities->max(fn (Activity $activity) => $activity->getAveragePower() ?? 0);
     }
 
     public function getFastestAverageSpeed(): float
     {
-        return max(array_map(fn (Activity $activity) => $activity->getAverageSpeedInKmPerH(), $this->activities->toArray()));
+        return $this->activities->max(fn (Activity $activity) => $activity->getAverageSpeedInKmPerH());
     }
 
     public function getHighestAverageHeartRate(): int
     {
-        return (int) max(array_map(fn (Activity $activity) => $activity->getAverageHeartRate(), $this->activities->toArray()));
+        return (int) $this->activities->max(fn (Activity $activity) => $activity->getAverageHeartRate() ?? 0);
     }
 
     public function getCalories(): int
     {
-        return (int) max(array_map(fn (Activity $activity) => $activity->getCalories(), $this->activities->toArray()));
+        return (int) $this->activities->max(fn (Activity $activity) => $activity->getCalories());
     }
 
     public function getLongestMovingTimeFormatted(): ?string
