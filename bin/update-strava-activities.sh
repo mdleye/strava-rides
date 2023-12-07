@@ -5,20 +5,20 @@ set -e
 git clone https://github.com/robiningelbrecht/strava-activities-template.git --depth 1
 
 # Copy all files from template to this repo.
-rm -Rf bin/* && mv -f strava-activities-template/bin/* bin/
+mv -f strava-activities-template/bin/console bin/console
 rm -Rf config/* && mv -f strava-activities-template/config/* config/
 rm -Rf migrations/* && mv -f strava-activities-template/migrations/* migrations/
 rm -Rf public/* && mv -f strava-activities-template/public/* public/
 rm -Rf src/* && mv -f strava-activities-template/src/* src/
 rm -Rf templates/* && mv -f strava-activities-template/templates/* templates/
 ## Build asset files
-mv -f strava-activities-template/build/html/echarts/echarts.min.js build/html/echarts/echarts.min.js
-mv -f strava-activities-template/build/html/flowbite/flowbite.js build/html/flowbite/flowbite.js
-mv -f strava-activities-template/build/html/flowbite/tailwind.css build/html/flowbite/tailwind.css
-mv -f strava-activities-template/build/html/flowbite/tailwind.min.css build/html/flowbite/tailwind.min.css
+rm -Rf build/html/echarts/* && mv -f strava-activities-template/build/html/echarts/* build/html/echarts/
+rm -Rf build/html/flowbite/* && mv -f strava-activities-template/build/html/flowbite/* build/html/flowbite/
+mkdir -p build/html/leaflet && rm -Rf build/html/leaflet/* && mv -f strava-activities-template/build/html/leaflet/* build/html/leaflet/
 mv -f strava-activities-template/build/html/dark-mode-toggle.js build/html/dark-mode-toggle.js
 mv -f strava-activities-template/build/html/favicon.ico build/html/favicon.ico
 mv -f strava-activities-template/build/html/placeholder.webp build/html/placeholder.webp
+mv -f strava-activities-template/build/html/lazyload.min.js build/html/lazyload.min.js
 mv -f strava-activities-template/build/html/router.js build/html/router.js
 mv -f strava-activities-template/build/html/sortable.min.js build/html/sortable.min.js
 
@@ -36,6 +36,7 @@ mkdir -p migrations
 
 # Delete install files
 rm -Rf files/install
+rm -Rf files/maps
 # Delete test suite
 rm -Rf tests
 # Delete template again.
@@ -49,6 +50,11 @@ composer install --prefer-dist
 
 # Run migrations.
 ./vendor/bin/doctrine-migrations migrate --no-interaction
+
+# Exit when only template update.
+if [ "$1" == "--only-template" ]; then
+  exit 0;
+fi
 
 # Update strava stats.
 bin/console app:strava:import-data
