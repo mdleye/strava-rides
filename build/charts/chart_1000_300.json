@@ -21,6 +21,9 @@
                 "axisTick": {
                     "show": false
                 },
+                "axisLabel": {
+                    "interval": 0
+                },
                 "data": [
                     "",
                     "Oct 2023",
@@ -51,7 +54,7 @@
                 "axisLabel": {
                     "formatter": "{value} km"
                 },
-                "max": 150
+                "max": 200
             }
         ],
         "series": [
@@ -87,7 +90,7 @@
                     70,
                     62,
                     143,
-                    68
+                    169
                 ]
             }
         ]

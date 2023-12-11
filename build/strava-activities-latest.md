@@ -23,6 +23,19 @@
             <td align="center">111</td>
         </tr>
             <tr>
+            <td>10-12-23</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
+                <a href="https://www.strava.com/activities/10360927736" title="Kcal: 1042 | Gear: None ">GranFondo op de rollen, we...</a>
+            </td>
+            <td align="center">101 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">8:22:01</td>
+            <td align="center">69 <sup><sub>w</sub></sup></td>
+            <td align="center">12 <sup><sub>km/h</sub></sup></td>
+            <td align="center">91</td>
+        </tr>
+            <tr>
             <td>09-12-23</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
@@ -60,19 +73,6 @@
             <td align="center">104 <sup><sub>w</sub></sup></td>
             <td align="center">23.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">132</td>
-        </tr>
-            <tr>
-            <td>28-11-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10297544224" title="Kcal: 605 | Gear: None ">TIGER🏌🏿‍♀️</a>
-            </td>
-            <td align="center">45 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1:28:59</td>
-            <td align="center">n/a</td>
-            <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">118</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
