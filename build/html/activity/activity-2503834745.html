@@ -22,25 +22,25 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
             <div>
                 <div class="mb-4 grid grid-cols-5 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Distance</dd>
                             <dt class="font-extrabold">25<span class="text-xs">km</span></dt>
                         </div>
                     </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Moving time</dd>
                             <dt class="font-extrabold">1:04:54</dt>
                         </div>
                     </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Elevation</dd>
                             <dt class="font-extrabold">94<span class="text-xs">m</span></dt>
                         </div>
                     </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <div class="flex flex-col items-center justify-center px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
                         <div class="text-center">
                             <dd class="text-xs text-gray-500 dark:text-gray-400">Calories</dd>
                             <dt class="font-extrabold">445</dt>
@@ -58,34 +58,64 @@
                         Humidity 70%,
                         Wind 12.7km/h from NE.
                     </div>
-                                                <div class="mb-4 grid grid-cols-4 gap-2">
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Speed</dd>
-                                                                                        <dt class="font-extrabold">23.6 <span class="text-xs">km/h</span></dt>
-                                                                                                                    <dd class="text-xs text-gray-500 dark:text-gray-400">
-                                    69.5 <span class="text-xs">km/h</span>
-                                </dd>
-                                                    </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Heart rate</dd>
-                                                                                        <dt class="font-extrabold">n/a</dt>
-                                                                                                            </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Cadence</dd>
-                                                        <dt class="font-extrabold">n/a</dt>
-                                                                                </div>
-                    </div>
-                    <div class="flex flex-col items-center justify-center px-2 py-4 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
-                        <div class="text-center">
-                            <dd class="text-xs text-gray-500 dark:text-gray-400">Power</dd>
-                                                                                        <dt class="font-extrabold">103<span class="text-xs">w</span></dt>
-                                                                                                            </div>
-                    </div>
+                                                <div class="mb-4 relative overflow-x-auto px-2 py-2 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-600">
+                    <table class="w-full text-sm text-center text-gray-500 dark:text-gray-400">
+                        <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-2 py-2">
+
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Speed
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Heart rate
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Cadence
+                            </th>
+                            <th scope="col" class="px-2 py-2">
+                                Power
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr class="border-b dark:border-gray-600">
+                            <th class="px-2 py-2">
+                                Avg
+                            </th>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    23.6<span class="text-xs">km/h</span>
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    n/a
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                n/a
+                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    103<span class="text-xs">w</span>
+                                                            </td>
+                        </tr>
+                        <tr>
+                            <th class="px-2 py-2">
+                                Max
+                            </th>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    69.5<span class="text-xs">km/h</span>
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    n/a
+                                                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                n/a
+                            </td>
+                            <td class="px-2 py-2 text-sm">
+                                                                                                    n/a
+                                                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
                 </div>
                             </div>
                                             <div class="h-[350px]" style="background-color:#bbbbb7" data-leaflet='{"routes":["k|pwHosqR~AsAxI{DlEiCtCW|@\\jAIXv@FvCBbHNxCNT`@KV[~Ai@`AMHRAVhAzH~@vB|BrDz@lDb@hDZChAd@LZ~@t@zB~Ct@zB|@`Bh@t@b@BfAlAl@|AvAlENV^LfAfBbBrC`@bAdBnCNn@vBdAdK`CTLj@`Av@@vDhCfA|BnBtC|AbAtBrB|@tAJGt@~AbCbBtApBxC`D\\TdFnJ~EfHh@d@~@lBpBpAL`@v@n@d@v@F\\z@r@~@zA|DtIRJv@hCd@p@b@pAnA~Bd@fAhB|Ez@jCdBdHdDlG~DfHTx@rBtEhAxA~AvAjAz@dApCZLZh@v@bCdBjCNn@Tb@@Kx@fCr@xAXNv@lA`@Th@z@hEnDLd@Ct@JDv@dCzAhBGxAXlAd@r@Bp@NTFb@Td@XPd@lAd@f@Pt@JrBbBl@nD|DVh@TtBv@pAhEpD`AfAb@`Bt@d@hA|ARh@vAdB`Ar@h@jAx@p@vAxD`BdCd@Rv@x@VFjAbAV@T^b@XxFjIVNTn@~AzA`C`EdAjETGi@a@C_@r@mAd@Cl@v@~@jBJb@Br@jA`D|BrBzAhCj@dBd@z@|CjCf@@lCdAdEtD~CxA|ChCf@CtA_An@k@`AwAzGkG~HyFr@U|BuB|@_@pA?jAi@b@c@RL~@rAjBjDb@XnEbI|CpKBh@bA|D`@BrC{BfAcB@]RYz@g@`CsCRmA`CmIzA{HxBeJpAaDzB_EdCoBLLx@M`Bg@pHkA~C}@fCoAn@i@r@eAdBgEx@kF|AyHtBoGh@}CPCPVTIJeHPa@d@a@O_@@s@|AaI|@mDx@cBxB}JD_@OiAMMM~AQn@Fh@Gf@_DlKoC~Lb@bBm@z@O~AAvEQLe@Ku@hCe@f@wBvGsDdPw@xBm@dAcA`AmCjAaGrAwGv@mCfAo@FWnAuBhEeAvCcGxYuAjFo@hAcDnDoAlBiA`AcBj@]aAgBqIoBwGsKeRMCQf@q@l@aC`@gDvBe{Ge~HUUa@FJUMBIc@a@Q]cA_A@}NqDOs@mC{EMm@eAeAaA_BOw@a@UaA_B}AmEy@m@Se@k@[sFoJuBkCq@]]o@_AqEo@mBcDuFe@eCQ{B_@yB_AZaEh@QeFFiD_@}F{@Ga@NcB[eBLcGjCaDvBqEhC"],"tileLayer":"https:\/\/tile.openstreetmap.org\/{z}\/{x}\/{y}.png","minZoom":1,"maxZoom":14,"imageOverlay":null,"bounds":[]}'></div>
