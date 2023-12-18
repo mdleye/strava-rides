@@ -1554,12 +1554,12 @@ I burned `543033 calories` doing so, that's about `2 011` pizza slices 🍕
             <td align="center">Ridley Fenix</td>
             <td align="center">11</td>
             <td align="center">
-                                    65 <sup><sub>km avg</sub></sup> /
-                    712 <sup><sub>km total</sub></sup>
+                                    66 <sup><sub>km avg</sub></sup> /
+                    723 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">1 136 <sup><sub>m</sub></sup></td>
             <td align="center">1d 56m</td>
-            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">29.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Specialized Crave MTB ☠️</td>
