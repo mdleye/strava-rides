@@ -35,11 +35,10 @@ final readonly class ImportActivityStreamsCommandHandler implements CommandHandl
         $command->getOutput()->writeln('Importing activity streams...');
 
         foreach ($this->activityRepository->findActivityIds() as $activityId) {
-            if ($this->activityStreamRepository->hasOneForActivity($activityId)) {
+            if ($this->activityStreamRepository->isImportedForActivity($activityId)) {
                 // Streams for this activity have been imported already, skip.
                 continue;
             }
-
             $stravaStreams = [];
             try {
                 $stravaStreams = $this->strava->getAllActivityStreams($activityId);
@@ -59,6 +58,19 @@ final readonly class ImportActivityStreamsCommandHandler implements CommandHandl
                 if (404 === $exception->getResponse()->getStatusCode()) {
                     continue;
                 }
+            }
+
+            $stravaStreams = array_filter(
+                $stravaStreams,
+                fn (array $stravaStream) => StreamType::tryFrom($stravaStream['type'])
+            );
+            if (empty($stravaStreams)) {
+                // We need this hack for activities that do not have streams.
+                // This way we can "tag" them as imported.
+                $stravaStreams[] = [
+                    'type' => StreamType::HACK->value,
+                    'data' => [],
+                ];
             }
 
             foreach ($stravaStreams as $stravaStream) {

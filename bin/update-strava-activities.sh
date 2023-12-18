@@ -61,6 +61,9 @@ fi
 bin/console app:strava:import-data
 bin/console app:strava:build-files
 
+# Vacuum database
+bin/console app:strava:vacuum
+
 # Generate charts
 npm ci
 node echart.js

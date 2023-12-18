@@ -10,7 +10,7 @@ use Doctrine\Migrations\AbstractMigration;
 /**
  * Auto-generated Migration: Please modify to your needs!
  */
-final class Version20231021090113 extends AbstractMigration
+final class Version20231218142026 extends AbstractMigration
 {
     public function getDescription(): string
     {
@@ -20,8 +20,7 @@ final class Version20231021090113 extends AbstractMigration
     public function up(Schema $schema): void
     {
         // this up() migration is auto-generated, please modify it to your needs
-        $this->addSql('ALTER TABLE Activity ADD COLUMN weather CLOB DEFAULT NULL --(DC2Type:json)');
-        $this->addSql("UPDATE Activity SET weather = JSON_EXTRACT(data, '$.weather')");
+        $this->addSql('DELETE FROM ActivityStream WHERE streamType IN("altitude", "latlng", "velocity_smooth")');
     }
 
     public function down(Schema $schema): void

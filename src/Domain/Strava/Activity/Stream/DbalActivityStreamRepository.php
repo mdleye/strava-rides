@@ -16,7 +16,7 @@ final readonly class DbalActivityStreamRepository implements ActivityStreamRepos
     ) {
     }
 
-    public function hasOneForActivity(int $activityId): bool
+    public function isImportedForActivity(int $activityId): bool
     {
         $queryBuilder = $this->connection->createQueryBuilder();
         $queryBuilder->select('*')
