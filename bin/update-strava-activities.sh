@@ -5,7 +5,9 @@ set -e
 git clone https://github.com/robiningelbrecht/strava-activities-template.git --depth 1
 
 # Copy all files from template to this repo.
+mv -f strava-activities-template/.gitignore .gitignore
 mv -f strava-activities-template/bin/console bin/console
+mv -f strava-activities-template/bin/doctrine-migrations bin/doctrine-migrations
 rm -Rf config/* && mv -f strava-activities-template/config/* config/
 rm -Rf migrations/* && mv -f strava-activities-template/migrations/* migrations/
 rm -Rf public/* && mv -f strava-activities-template/public/* public/
@@ -50,7 +52,7 @@ git diff --staged --quiet || git commit -m"Updated template to latest version"
 composer install --prefer-dist
 
 # Run migrations.
-./vendor/bin/doctrine-migrations migrate --no-interaction
+bin/doctrine-migrations migrate --no-interaction
 
 # Exit when only template update.
 if [ "$1" == "--only-template" ]; then
