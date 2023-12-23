@@ -1739,139 +1739,95 @@ I burned `543821 calories` doing so, that's about `2 014` pizza slices 🍕
     </thead>
     <tbody>
             <tr>
-            <td align="center">0 - 10 km</td>
-            <td align="center">34</td>
+            <td align="center">0 - 15 km</td>
+            <td align="center">242</td>
             <td align="center">
-                                     8 <sup><sub>km avg</sub></sup> /
-                     273 <sup><sub>km total</sub></sup>
+                                     11 <sup><sub>km avg</sub></sup> /
+                     2 704 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">607 <sup><sub>m</sub></sup></td>
-            <td align="center">13h 21m</td>
-            <td align="center">20.4 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">10 - 20 km</td>
-            <td align="center">288</td>
-            <td align="center">
-                                     13 <sup><sub>km avg</sub></sup> /
-                     3 788 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">8 119 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 8h 12m</td>
+            <td align="center">5 845 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 5h 30m</td>
             <td align="center">21.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">20 - 30 km</td>
-            <td align="center">159</td>
+            <td align="center">15 - 30 km</td>
+            <td align="center">239</td>
             <td align="center">
-                                     24 <sup><sub>km avg</sub></sup> /
-                     3 888 <sup><sub>km total</sub></sup>
+                                     22 <sup><sub>km avg</sub></sup> /
+                     5 245 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">8 299 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 12h 40m</td>
-            <td align="center">21.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">11 181 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 3d 4h 43m</td>
+            <td align="center">21.4 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">30 - 40 km</td>
-            <td align="center">70</td>
+            <td align="center">30 - 45 km</td>
+            <td align="center">109</td>
             <td align="center">
-                                     34 <sup><sub>km avg</sub></sup> /
-                     2 346 <sup><sub>km total</sub></sup>
+                                     37 <sup><sub>km avg</sub></sup> /
+                     3 979 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">5 215 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 5h 21m</td>
-            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">11 410 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 5h 12m</td>
+            <td align="center">23.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">40 - 50 km</td>
-            <td align="center">50</td>
+            <td align="center">45 - 60 km</td>
+            <td align="center">63</td>
             <td align="center">
-                                     43 <sup><sub>km avg</sub></sup> /
-                     2 152 <sup><sub>km total</sub></sup>
+                                     53 <sup><sub>km avg</sub></sup> /
+                     3 323 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">7 086 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 22h 21m</td>
-            <td align="center">22.8 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">50 - 60 km</td>
-            <td align="center">52</td>
-            <td align="center">
-                                     54 <sup><sub>km avg</sub></sup> /
-                     2 803 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">9 009 <sup><sub>m</sub></sup></td>
-            <td align="center">5d 49m</td>
+            <td align="center">9 900 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 23h 20m</td>
             <td align="center">23.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">60 - 70 km</td>
+            <td align="center">60 - 75 km</td>
+            <td align="center">33</td>
+            <td align="center">
+                                     66 <sup><sub>km avg</sub></sup> /
+                     2 180 <sup><sub>km total</sub></sup>
+                            </td>
+            <td align="center">8 858 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 21h 26m</td>
+            <td align="center">23.3 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td align="center">75 - 90 km</td>
             <td align="center">25</td>
             <td align="center">
-                                     64 <sup><sub>km avg</sub></sup> /
-                     1 605 <sup><sub>km total</sub></sup>
+                                     81 <sup><sub>km avg</sub></sup> /
+                     2 034 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">6 134 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 21h 32m</td>
-            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">70 - 80 km</td>
-            <td align="center">16</td>
-            <td align="center">
-                                     74 <sup><sub>km avg</sub></sup> /
-                     1 189 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">6 596 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 2h 54m</td>
-            <td align="center">23.4 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">80 - 90 km</td>
-            <td align="center">17</td>
-            <td align="center">
-                                     84 <sup><sub>km avg</sub></sup> /
-                     1 420 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">3 460 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 9h 17m</td>
-            <td align="center">24.8 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">90 - 100 km</td>
-            <td align="center">2</td>
-            <td align="center">
-                                     91 <sup><sub>km avg</sub></sup> /
-                     182 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">276 <sup><sub>m</sub></sup></td>
-            <td align="center">7h 14m</td>
-            <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">100 - 110 km</td>
-            <td align="center">19</td>
-            <td align="center">
-                                     103 <sup><sub>km avg</sub></sup> /
-                     1 952 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">4 724 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 9h 3m</td>
+            <td align="center">7 333 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 12h 16m</td>
             <td align="center">24.1 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">110 - 120 km</td>
-            <td align="center">9</td>
+            <td align="center">90 - 105 km</td>
+            <td align="center">16</td>
             <td align="center">
-                                     113 <sup><sub>km avg</sub></sup> /
-                     1 017 <sup><sub>km total</sub></sup>
+                                     100 <sup><sub>km avg</sub></sup> /
+                     1 598 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">5 678 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 15h 35m</td>
-            <td align="center">25.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">3 566 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 19h 17m</td>
+            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">120 - 130 km</td>
+            <td align="center">105 - 120 km</td>
+            <td align="center">14</td>
+            <td align="center">
+                                     111 <sup><sub>km avg</sub></sup> /
+                     1 553 <sup><sub>km total</sub></sup>
+                            </td>
+            <td align="center">7 112 <sup><sub>m</sub></sup></td>
+            <td align="center">2d 12h 37m</td>
+            <td align="center">25.6 <sup><sub>km/h</sub></sup></td>
+        </tr>
+            <tr>
+            <td align="center">120 - 135 km</td>
             <td align="center">4</td>
             <td align="center">
                                      121 <sup><sub>km avg</sub></sup> /
@@ -1882,17 +1838,7 @@ I burned `543821 calories` doing so, that's about `2 014` pizza slices 🍕
             <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">130 - 140 km</td>
-            <td align="center">0</td>
-            <td align="center">
-                                    0 <sup><sub>km</sub></sup>
-                            </td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center"></td>
-            <td align="center">0.0 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">140 - 150 km</td>
+            <td align="center">135 - 150 km</td>
             <td align="center">1</td>
             <td align="center">
                                      149 <sup><sub>km avg</sub></sup> /
@@ -1903,26 +1849,15 @@ I burned `543821 calories` doing so, that's about `2 014` pizza slices 🍕
             <td align="center">25.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
-            <td align="center">150 - 160 km</td>
-            <td align="center">2</td>
+            <td align="center">150 - 165 km</td>
+            <td align="center">3</td>
             <td align="center">
-                                     158 <sup><sub>km avg</sub></sup> /
-                     315 <sup><sub>km total</sub></sup>
+                                     159 <sup><sub>km avg</sub></sup> /
+                     476 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">1 409 <sup><sub>m</sub></sup></td>
-            <td align="center">11h 40m</td>
-            <td align="center">27.0 <sup><sub>km/h</sub></sup></td>
-        </tr>
-            <tr>
-            <td align="center">160 - 170 km</td>
-            <td align="center">1</td>
-            <td align="center">
-                                     161 <sup><sub>km avg</sub></sup> /
-                     161 <sup><sub>km total</sub></sup>
-                            </td>
-            <td align="center">527 <sup><sub>m</sub></sup></td>
-            <td align="center">5h 33m</td>
-            <td align="center">29.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">1 935 <sup><sub>m</sub></sup></td>
+            <td align="center">17h 13m</td>
+            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
 </table>
