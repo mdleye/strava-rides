@@ -44,7 +44,7 @@ final class ActivityCollection extends Collection
 
     public function filterOnWeek(Week $week): ActivityCollection
     {
-        return $this->filter(fn (Activity $activity) => $activity->getStartDate()->format(Week::WEEK_ID_FORMAT) === $week->getId());
+        return $this->filter(fn (Activity $activity) => $activity->getStartDate()->getYearAndWeekNumber() === $week->getId());
     }
 
     public function filterOnDateRange(SerializableDateTime $fromDate, SerializableDateTime $toDate): ActivityCollection
@@ -57,9 +57,9 @@ final class ActivityCollection extends Collection
         return $this->filter(fn (Activity $activity) => $activityType === $activity->getType());
     }
 
-    public function getByActivityId(int $activityId): Activity
+    public function getByActivityId(ActivityId $activityId): Activity
     {
-        $activities = $this->filter(fn (Activity $activity) => $activityId === $activity->getId())->toArray();
+        $activities = $this->filter(fn (Activity $activity) => $activityId == $activity->getId())->toArray();
 
         /** @var \App\Domain\Strava\Activity\Activity $activity */
         $activity = reset($activities);
