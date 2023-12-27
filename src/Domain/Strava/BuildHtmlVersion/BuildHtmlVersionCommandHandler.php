@@ -82,6 +82,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
         $now = SerializableDateTime::fromDateTimeImmutable($this->clock->now());
         $athleteBirthday = SerializableDateTime::fromString($this->keyValueStore->find(Key::ATHLETE_BIRTHDAY)->getValue());
 
+        $athleteId = $this->keyValueStore->find(Key::ATHLETE_ID)->getValue();
         $allActivities = $this->activityDetailsRepository->findAll();
         $allChallenges = $this->challengeDetailsRepository->findAll();
         $allBikes = $this->gearDetailsRepository->findAll();
@@ -140,6 +141,8 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                 'eddingtonNumber' => $eddington->getNumber(),
                 'completedChallenges' => count($allChallenges),
                 'totalPhotoCount' => count($allImages),
+                'lastUpdate' => $now,
+                'athleteId' => $athleteId,
             ]),
         );
 
@@ -260,6 +263,8 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
         /** @var \App\Domain\Strava\Segment\Segment $segment */
         foreach ($allSegments as $segment) {
             $segmentEfforts = $this->segmentEffortDetailsRepository->findBySegmentId($segment->getId());
+            $segment->enrichWithNumberOfTimesRidden(count($segmentEfforts));
+
             if ($bestSegmentEffort = $segmentEfforts->getBestEffort()) {
                 $segment->enrichWithBestEffort($bestSegmentEffort);
             }
