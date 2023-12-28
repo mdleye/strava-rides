@@ -12,8 +12,8 @@
             <tr>
             <td>23-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10428178567" title="Kcal: 512 | Gear: None ">🔥</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🔥" title="🔥"/>
+<a href="https://www.strava.com/activities/10428178567" title="Kcal: 512 | Gear: None ">🔥</a>
             </td>
             <td align="center">16 <sup><sub>km</sub></sup></td>
             <td align="center">27 <sup><sub>m</sub></sup></td>
@@ -25,8 +25,8 @@
             <tr>
             <td>21-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10416633436" title="Kcal: 399 | Gear: None ">KILLING ESCOBAR 🪖</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="KILLING ESCOBAR 🪖" title="KILLING ESCOBAR 🪖"/>
+<a href="https://www.strava.com/activities/10416633436" title="Kcal: 399 | Gear: None ">KILLING ESCOBAR 🪖</a>
             </td>
             <td align="center">35 <sup><sub>km</sub></sup></td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
@@ -38,8 +38,8 @@
             <tr>
             <td>18-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10400884144" title="Kcal: 753 | Gear: None ">Eddy Merckx wielerpiste</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Eddy Merckx wielerpiste" title="Eddy Merckx wielerpiste"/>
+<a href="https://www.strava.com/activities/10400884144" title="Kcal: 753 | Gear: None ">Eddy Merckx wielerpiste</a>
             </td>
             <td align="center">11 <sup><sub>km</sub></sup></td>
             <td align="center">18 <sup><sub>m</sub></sup></td>
@@ -51,8 +51,8 @@
             <tr>
             <td>16-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10389493908" title="Kcal: 298 | Gear: None ">Verdoeme Renée, te vroeg w...</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Verdoeme Renée, te vroeg wakker!" title="Verdoeme Renée, te vroeg wakker!"/>
+<a href="https://www.strava.com/activities/10389493908" title="Kcal: 298 | Gear: None ">Verdoeme Renée, te vroeg w...</a>
             </td>
             <td align="center">18 <sup><sub>km</sub></sup></td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
@@ -64,8 +64,8 @@
             <tr>
             <td>10-12-23</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10360927736" title="Kcal: 1042 | Gear: None ">GranFondo op de rollen, we...</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="GranFondo op de rollen, wel in 2 etappes" title="GranFondo op de rollen, wel in 2 etappes"/>
+<a href="https://www.strava.com/activities/10360927736" title="Kcal: 1042 | Gear: None ">GranFondo op de rollen, we...</a>
             </td>
             <td align="center">101 <sup><sub>km</sub></sup></td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
