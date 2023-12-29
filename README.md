@@ -13,7 +13,7 @@ an elevation of `69 081 m`
 and a total time of `1mo 2w 1d 1h 51m` 🎉
 
 That's a daily average of `9 km`,
-a weekly average of `63 km` and a
+a weekly average of `62 km` and a
 monthly average of `270 km` 🐣
 
 I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
@@ -1610,10 +1610,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">535 <sup><sub>w</sub></sup></td>
             <td align="center">6.69 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
                     <tr>
@@ -1621,10 +1619,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">515 <sup><sub>w</sub></sup></td>
             <td align="center">6.44 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
                     <tr>
@@ -1632,10 +1628,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">366 <sup><sub>w</sub></sup></td>
             <td align="center">4.58 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
                     <tr>
@@ -1643,10 +1637,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">342 <sup><sub>w</sub></sup></td>
             <td align="center">4.28 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
                     <tr>
@@ -1654,10 +1646,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">259 <sup><sub>w</sub></sup></td>
             <td align="center">3.24 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
                     <tr>
@@ -1665,10 +1655,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">245 <sup><sub>w</sub></sup></td>
             <td align="center">3.06 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
                     <tr>
@@ -1676,10 +1664,8 @@ I burned `544333 calories` doing so, that's about `2 016` pizza slices 🍕
             <td align="center">226 <sup><sub>w</sub></sup></td>
             <td align="center">2.83 <sup><sub>w/kg</sub></sup></td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/.svg" width="12" alt="virtual ride" title="virtual ride"/>
-                <a href="https://www.strava.com/activities/10151512689">
-                    Cyclo Boys 🟡⚫
-                </a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Cyclo Boys 🟡⚫" title="Cyclo Boys 🟡⚫"/>
+<a href="https://www.strava.com/activities/10151512689" title="Kcal: 621 | Gear: None ">Cyclo Boys 🟡⚫</a>
             </td>
         </tr>
     </table>
