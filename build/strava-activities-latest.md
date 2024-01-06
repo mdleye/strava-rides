@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="ICEMAN2" title="ICEMAN2"/>
+<a href="https://www.strava.com/activities/10499873501" title="Kcal: 279 | Gear: None ">ICEMAN2</a>
+            </td>
+            <td align="center">20 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">36:04</td>
+            <td align="center">n/a</td>
+            <td align="center">33.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">119</td>
+        </tr>
+            <tr>
+            <td>04-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="ICE MAN" title="ICE MAN"/>
+<a href="https://www.strava.com/activities/10495338192" title="Kcal: 194 | Gear: None ">ICE MAN</a>
+            </td>
+            <td align="center">20 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">37:08</td>
+            <td align="center">n/a</td>
+            <td align="center">32.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">102</td>
+        </tr>
+            <tr>
             <td>02-01-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="❤️‍🔥 ♂️" title="❤️‍🔥 ♂️"/>
@@ -47,32 +73,6 @@
             <td align="center">56 <sup><sub>w</sub></sup></td>
             <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">129</td>
-        </tr>
-            <tr>
-            <td>21-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="KILLING ESCOBAR 🪖" title="KILLING ESCOBAR 🪖"/>
-<a href="https://www.strava.com/activities/10416633436" title="Kcal: 399 | Gear: None ">KILLING ESCOBAR 🪖</a>
-            </td>
-            <td align="center">35 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1:02:58</td>
-            <td align="center">n/a</td>
-            <td align="center">33.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">114</td>
-        </tr>
-            <tr>
-            <td>18-12-23</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Eddy Merckx wielerpiste" title="Eddy Merckx wielerpiste"/>
-<a href="https://www.strava.com/activities/10400884144" title="Kcal: 753 | Gear: None ">Eddy Merckx wielerpiste</a>
-            </td>
-            <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td align="center">18 <sup><sub>m</sub></sup></td>
-            <td align="center">1:02:40</td>
-            <td align="center">88 <sup><sub>w</sub></sup></td>
-            <td align="center">10.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
