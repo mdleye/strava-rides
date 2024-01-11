@@ -12,15 +12,15 @@
             <tr>
             <td>11-01-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/10535973325" title="Kcal: 1173 | Gear: None ">Ochtendrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🥶🥶🥶👷" title="🥶🥶🥶👷"/>
+<a href="https://www.strava.com/activities/10538705280" title="Kcal: 2212 | Gear: None ">🥶🥶🥶👷</a>
             </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">81 <sup><sub>m</sub></sup></td>
-            <td align="center">1:31:54</td>
-            <td align="center">110 <sup><sub>w</sub></sup></td>
-            <td align="center">26.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">154</td>
+            <td align="center">81 <sup><sub>km</sub></sup></td>
+            <td align="center">94 <sup><sub>m</sub></sup></td>
+            <td align="center">3:03:15</td>
+            <td align="center">104 <sup><sub>w</sub></sup></td>
+            <td align="center">26.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">150</td>
         </tr>
             <tr>
             <td>09-01-24</td>
