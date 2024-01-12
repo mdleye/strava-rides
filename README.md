@@ -1734,6 +1734,100 @@ I burned `549126 calories` doing so, that's about `2 034` pizza slices 🍕
 
 <img src="build/charts/chart-yearly-distance-stats.svg" alt="Yearly distance stats"/>
 
+<table>
+    <thead>
+    <tr>
+        <th>Year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/distance.svg" width="30" alt="distance" title="distance"/></th>
+        <th>Δ prev year</th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/elevation.svg" width="30" alt="elevation" title="elevation"/></th>
+        <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/time.svg" width="30" alt="time" title="time"/></th>
+    </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td align="center">2024</td>
+            <td align="center">224 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -4 273 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">192 <sup><sub>m</sub></sup></td>
+            <td align="center">8h 9m</td>
+        </tr>
+            <tr>
+            <td align="center">2023</td>
+            <td align="center">4 497 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    1 832 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">11 419 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 16h 28m</td>
+        </tr>
+            <tr>
+            <td align="center">2022</td>
+            <td align="center">2 665 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -505 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">8 988 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 2h 23m</td>
+        </tr>
+            <tr>
+            <td align="center">2021</td>
+            <td align="center">3 170 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    -6 884 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">8 415 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 2h 4m</td>
+        </tr>
+            <tr>
+            <td align="center">2020</td>
+            <td align="center">10 054 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    6 833 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">27 184 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 3d 13h 58m</td>
+        </tr>
+            <tr>
+            <td align="center">2019</td>
+            <td align="center">3 221 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    3 129 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">12 692 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 7h 51m</td>
+        </tr>
+            <tr>
+            <td align="center">2018</td>
+            <td align="center">92 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    60 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">230 <sup><sub>m</sub></sup></td>
+            <td align="center">5h 8m</td>
+        </tr>
+            <tr>
+            <td align="center">2017</td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                                    21 <sup><sub>km</sub></sup>
+                            </td>
+            <td align="center">115 <sup><sub>m</sub></sup></td>
+            <td align="center">1h 19m</td>
+        </tr>
+            <tr>
+            <td align="center">2016</td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">
+                            </td>
+            <td align="center">38 <sup><sub>m</sub></sup></td>
+            <td align="center">37m</td>
+        </tr>
+        </tbody>
+</table>
+
 ## Distance breakdown
 
 <table>
