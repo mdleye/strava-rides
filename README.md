@@ -54,8 +54,8 @@ I burned `550772 calories` doing so, that's about `2 040` pizza slices 🍕
             <tr>
             <td>18-01-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
-<a href="https://www.strava.com/activities/10582453063" title="Kcal: 437 | Gear: Ridley Fenix ">Namiddagrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💇💉🩸" title="💇💉🩸"/>
+<a href="https://www.strava.com/activities/10582453063" title="Kcal: 437 | Gear: State Bicycle Rutherford 3.0 ">💇💉🩸</a>
             </td>
             <td align="center">14 <sup><sub>km</sub></sup></td>
             <td align="center">45 <sup><sub>m</sub></sup></td>
@@ -1528,13 +1528,13 @@ I burned `550772 calories` doing so, that's about `2 040` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">State Bicycle Rutherford 3.0</td>
-            <td align="center">420</td>
+            <td align="center">421</td>
             <td align="center">
                                     19 <sup><sub>km avg</sub></sup> /
-                    7 985 <sup><sub>km total</sub></sup>
+                    8 000 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">16 821 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 1d 18h 49m</td>
+            <td align="center">16 866 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 1d 19h 28m</td>
             <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1561,14 +1561,14 @@ I burned `550772 calories` doing so, that's about `2 040` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Ridley Fenix</td>
-            <td align="center">15</td>
+            <td align="center">14</td>
             <td align="center">
-                                    56 <sup><sub>km avg</sub></sup> /
-                    840 <sup><sub>km total</sub></sup>
+                                    59 <sup><sub>km avg</sub></sup> /
+                    825 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">1 354 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 6h 46m</td>
-            <td align="center">27.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">1 309 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 6h 7m</td>
+            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Bianchi/Tacx</td>

@@ -12,8 +12,8 @@
             <tr>
             <td>18-01-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
-<a href="https://www.strava.com/activities/10582453063" title="Kcal: 437 | Gear: None ">Namiddagrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💇💉🩸" title="💇💉🩸"/>
+<a href="https://www.strava.com/activities/10582453063" title="Kcal: 437 | Gear: None ">💇💉🩸</a>
             </td>
             <td align="center">14 <sup><sub>km</sub></sup></td>
             <td align="center">45 <sup><sub>m</sub></sup></td>
