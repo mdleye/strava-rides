@@ -12,15 +12,15 @@
             <tr>
             <td>30-01-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Avondrit" title="Avondrit"/>
-<a href="https://www.strava.com/activities/10662190377" title="Kcal: 226 | Gear: None ">Avondrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎾🏆🌧️" title="🎾🏆🌧️"/>
+<a href="https://www.strava.com/activities/10663272776" title="Kcal: 500 | Gear: None ">🎾🏆🌧️</a>
             </td>
-            <td align="center">9 <sup><sub>km</sub></sup></td>
-            <td align="center">13 <sup><sub>m</sub></sup></td>
-            <td align="center">19:59</td>
-            <td align="center">121 <sup><sub>w</sub></sup></td>
-            <td align="center">25.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">31 <sup><sub>m</sub></sup></td>
+            <td align="center">42:06</td>
+            <td align="center">107 <sup><sub>w</sub></sup></td>
+            <td align="center">25.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">142</td>
         </tr>
             <tr>
             <td>27-01-24</td>
