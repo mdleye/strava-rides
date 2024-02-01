@@ -13,14 +13,14 @@
             <td>01-02-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/10672364556" title="Kcal: 999 | Gear: None ">Ochtendrit</a>
+<a href="https://www.strava.com/activities/10676955355" title="Kcal: 2106 | Gear: None ">Ochtendrit</a>
             </td>
-            <td align="center">40 <sup><sub>km</sub></sup></td>
-            <td align="center">38 <sup><sub>m</sub></sup></td>
-            <td align="center">1:24:46</td>
-            <td align="center">129 <sup><sub>w</sub></sup></td>
-            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
+            <td align="center">86 <sup><sub>km</sub></sup></td>
+            <td align="center">93 <sup><sub>m</sub></sup></td>
+            <td align="center">3:11:52</td>
+            <td align="center">114 <sup><sub>w</sub></sup></td>
+            <td align="center">26.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">144</td>
         </tr>
             <tr>
             <td>31-01-24</td>
