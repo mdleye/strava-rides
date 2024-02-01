@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-02-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
+<a href="https://www.strava.com/activities/10672364556" title="Kcal: 999 | Gear: None ">Ochtendrit</a>
+            </td>
+            <td align="center">40 <sup><sub>km</sub></sup></td>
+            <td align="center">38 <sup><sub>m</sub></sup></td>
+            <td align="center">1:24:46</td>
+            <td align="center">129 <sup><sub>w</sub></sup></td>
+            <td align="center">28.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
+            <td>31-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="KDB ⚽ Made In Belgium" title="KDB ⚽ Made In Belgium"/>
+<a href="https://www.strava.com/activities/10670539389" title="Kcal: 427 | Gear: None ">KDB ⚽ Made In Belgium</a>
+            </td>
+            <td align="center">40 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1:24:39</td>
+            <td align="center">n/a</td>
+            <td align="center">28.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">104</td>
+        </tr>
+            <tr>
             <td>30-01-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎾🏆🌧️" title="🎾🏆🌧️"/>
@@ -47,32 +73,6 @@
             <td align="center">n/a</td>
             <td align="center">34.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">142</td>
-        </tr>
-            <tr>
-            <td>18-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="💇💉🩸" title="💇💉🩸"/>
-<a href="https://www.strava.com/activities/10582453063" title="Kcal: 437 | Gear: None ">💇💉🩸</a>
-            </td>
-            <td align="center">14 <sup><sub>km</sub></sup></td>
-            <td align="center">45 <sup><sub>m</sub></sup></td>
-            <td align="center">38:58</td>
-            <td align="center">95 <sup><sub>w</sub></sup></td>
-            <td align="center">21.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">138</td>
-        </tr>
-            <tr>
-            <td>13-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Vlaemsche Kliete" title="Vlaemsche Kliete"/>
-<a href="https://www.strava.com/activities/10549364498" title="Kcal: 1209 | Gear: None ">Vlaemsche Kliete</a>
-            </td>
-            <td align="center">44 <sup><sub>km</sub></sup></td>
-            <td align="center">33 <sup><sub>m</sub></sup></td>
-            <td align="center">2:20:52</td>
-            <td align="center">141 <sup><sub>w</sub></sup></td>
-            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
