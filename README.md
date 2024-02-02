@@ -3,7 +3,7 @@
          alt="Strava">
 </p>
 
-Since I began cycling `8 years` ago on `22-09-2016`,
+Since I began cycling `8 years and 1 day` ago on `22-09-2016`,
 I had `684 cycling days`.<br />
 I recorded a total distance of `24 229 km`
 (`0.60` trips around the world 🌍 and
@@ -54,8 +54,8 @@ I burned `555054 calories` doing so, that's about `2 056` pizza slices 🍕
             <tr>
             <td>01-02-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/10676955355" title="Kcal: 2106 | Gear: Ridley Fenix ">Ochtendrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Boeren en tractoren ontwijken 🚜🚜🚜👷" title="Boeren en tractoren ontwijken 🚜🚜🚜👷"/>
+<a href="https://www.strava.com/activities/10676955355" title="Kcal: 2106 | Gear: Ridley Fenix ">Boeren en tractoren ontwij...</a>
             </td>
             <td align="center">86 <sup><sub>km</sub></sup></td>
             <td align="center">93 <sup><sub>m</sub></sup></td>

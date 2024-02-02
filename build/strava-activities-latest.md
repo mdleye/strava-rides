@@ -12,8 +12,8 @@
             <tr>
             <td>01-02-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/10676955355" title="Kcal: 2106 | Gear: None ">Ochtendrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Boeren en tractoren ontwijken 🚜🚜🚜👷" title="Boeren en tractoren ontwijken 🚜🚜🚜👷"/>
+<a href="https://www.strava.com/activities/10676955355" title="Kcal: 2106 | Gear: None ">Boeren en tractoren ontwij...</a>
             </td>
             <td align="center">86 <sup><sub>km</sub></sup></td>
             <td align="center">93 <sup><sub>m</sub></sup></td>
