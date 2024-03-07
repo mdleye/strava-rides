@@ -10,10 +10,23 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>07-03-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="👷🌫️🌇" title="👷🌫️🌇"/>
+<a href="https://www.strava.com/activities/10907717101" title="Kcal: 887 | Gear: None ">👷🌫️🌇</a>
+            </td>
+            <td align="center">44 <sup><sub>km</sub></sup></td>
+            <td align="center">51 <sup><sub>m</sub></sup></td>
+            <td align="center">1:39:30</td>
+            <td align="center">107 <sup><sub>w</sub></sup></td>
+            <td align="center">26.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">133</td>
+        </tr>
+            <tr>
             <td>06-03-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
-<a href="https://www.strava.com/activities/10904427115" title="Kcal: 930 | Gear: None ">Namiddagrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="👷" title="👷"/>
+<a href="https://www.strava.com/activities/10904427115" title="Kcal: 930 | Gear: None ">👷</a>
             </td>
             <td align="center">42 <sup><sub>km</sub></sup></td>
             <td align="center">36 <sup><sub>m</sub></sup></td>
@@ -60,19 +73,6 @@
             <td align="center">n/a</td>
             <td align="center">30.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">102</td>
-        </tr>
-            <tr>
-            <td>17-02-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Te laat, ☀️ gemist, alleen &gt; soai" title="Te laat, ☀️ gemist, alleen &gt; soai"/>
-<a href="https://www.strava.com/activities/10780655127" title="Kcal: 1258 | Gear: None ">Te laat, ☀️ gemist, alleen...</a>
-            </td>
-            <td align="center">53 <sup><sub>km</sub></sup></td>
-            <td align="center">74 <sup><sub>m</sub></sup></td>
-            <td align="center">1:45:19</td>
-            <td align="center">156 <sup><sub>w</sub></sup></td>
-            <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
