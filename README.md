@@ -4,19 +4,19 @@
 </p>
 
 Since I began cycling `8 years and 2 months` ago on `22-09-2016`,
-I had `704 cycling days`.<br />
-I recorded a total distance of `24 974 km`
+I had `705 cycling days`.<br />
+I recorded a total distance of `24 999 km`
 (`0.62` trips around the world 🌍 and
 `0.065` trips to the moon 🌕),
 an elevation of `71 263 m`
 (`8.1` times Mount Everest 🏔)
-and a total time of `1mo 2w 3d 14m` 🎉
+and a total time of `1mo 2w 3d 1h 2m` 🎉
 
 That's a daily average of `9 km`,
 a weekly average of `64 km` and a
-monthly average of `274 km` 🐣
+monthly average of `275 km` 🐣
 
-I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
+I burned `570415 calories` doing so, that's about `2 113` pizza slices 🍕
 
 ---
 
@@ -51,6 +51,19 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>02-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="TJV All-In The Trilogy ep.2 🏆 Primož" title="TJV All-In The Trilogy ep.2 🏆 Primož"/>
+<a href="https://www.strava.com/activities/11093597573" title="Kcal: 289 | Gear: Bianchi/Tacx ">TJV All-In The Trilogy ep....</a>
+            </td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">47:55</td>
+            <td align="center">n/a</td>
+            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">109</td>
+        </tr>
             <tr>
             <td>25-03-24</td>
             <td>
@@ -103,19 +116,6 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
             <td align="center">30.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">115</td>
         </tr>
-            <tr>
-            <td>17-03-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="2x over den Poggio di Koekelaro" title="2x over den Poggio di Koekelaro"/>
-<a href="https://www.strava.com/activities/10978875826" title="Kcal: 2056 | Gear: Ridley Fenix ">2x over den Poggio di Koek...</a>
-            </td>
-            <td align="center">101 <sup><sub>km</sub></sup></td>
-            <td align="center">201 <sup><sub>m</sub></sup></td>
-            <td align="center">3:32:58</td>
-            <td align="center">137 <sup><sub>w</sub></sup></td>
-            <td align="center">28.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">140</td>
-        </tr>
         </table>
 <details>
     <summary>Older activities</summary>
@@ -130,6 +130,19 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
         </tr>
+                    <tr>
+                <td>17-03-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="2x over den Poggio di Koekelaro" title="2x over den Poggio di Koekelaro"/>
+<a href="https://www.strava.com/activities/10978875826" title="Kcal: 2056 | Gear: Ridley Fenix ">2x over den Poggio di Koek...</a>
+                </td>
+                <td align="center">101 <sup><sub>km</sub></sup></td>
+                <td align="center">201 <sup><sub>m</sub></sup></td>
+                <td align="center">3:32:58</td>
+                <td align="center">137 <sup><sub>w</sub></sup></td>
+                <td align="center">28.5 <sup><sub>km/h</sub></sup></td>
+                <td align="center">140</td>
+            </tr>
                     <tr>
                 <td>09-03-24</td>
                 <td>
@@ -767,19 +780,6 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
                 <td align="center">34.4 <sup><sub>km/h</sub></sup></td>
                 <td align="center">135</td>
             </tr>
-                    <tr>
-                <td>14-10-23</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Great Bruges Half Preps 💇📝🔌⌚" title="Great Bruges Half Preps 💇📝🔌⌚"/>
-<a href="https://www.strava.com/activities/10036960207" title="Kcal: 265 | Gear: State Bicycle Rutherford 3.0 ">Great Bruges Half Preps 💇📝...</a>
-                </td>
-                <td align="center">15 <sup><sub>km</sub></sup></td>
-                <td align="center">27 <sup><sub>m</sub></sup></td>
-                <td align="center">44:25</td>
-                <td align="center">89 <sup><sub>w</sub></sup></td>
-                <td align="center">20 <sup><sub>km/h</sub></sup></td>
-                <td align="center">n/a</td>
-            </tr>
             </table>
 </details>
 
@@ -798,6 +798,14 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
     </tr>
     </thead>
     <tbody>
+            <tr>
+            <td align="center">April 2024</td>
+            <td align="center">1</td>
+            <td align="center">25 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">47m</td>
+            <td align="center">2</td>
+        </tr>
             <tr>
             <td align="center">March 2024</td>
             <td align="center">8</td>
@@ -1336,18 +1344,18 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center"><b>768</td>
-        <td align="center"><b>24 504 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>769</td>
+        <td align="center"><b>24 529 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>71 263 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1mo 2w 2d 9h 49m</b></td>
+        <td align="center"><b>1mo 2w 2d 10h 37m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>784</td>
-        <td align="center"><b>24 974 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>785</td>
+        <td align="center"><b>24 999 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>71 263 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1mo 2w 3d 14m</b></td>
+        <td align="center"><b>1mo 2w 3d 1h 2m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -1386,14 +1394,14 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Tuesday</td>
-            <td align="center">106</td>
+            <td align="center">107</td>
             <td align="center">
                                     25 <sup><sub>km avg</sub></sup> /
-                    2 659 <sup><sub>km total</sub></sup>
+                    2 684 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">5 314 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 15h 12m</td>
-            <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">4d 16h</td>
+            <td align="center">24.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Wednesday</td>
@@ -1494,13 +1502,13 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Evening (17h - 23h)</td>
-            <td align="center">264</td>
+            <td align="center">265</td>
             <td align="center">
                                     21 <sup><sub>km avg</sub></sup> /
-                    5 492 <sup><sub>km total</sub></sup>
+                    5 517 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">7 449 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 2d 15h 5m</td>
+            <td align="center">1w 2d 15h 53m</td>
             <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1588,13 +1596,13 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Bianchi/Tacx</td>
-            <td align="center">28</td>
+            <td align="center">29</td>
             <td align="center">
                                     33 <sup><sub>km avg</sub></sup> /
-                    922 <sup><sub>km total</sub></sup>
+                    947 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 9h 57m</td>
+            <td align="center">1d 10h 45m</td>
             <td align="center">27.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1772,12 +1780,12 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">2024</td>
-            <td align="center">1 232 <sup><sub>km</sub></sup></td>
+            <td align="center">1 257 <sup><sub>km</sub></sup></td>
             <td align="center">
-                                    -3 265 <sup><sub>km</sub></sup>
+                                    -3 240 <sup><sub>km</sub></sup>
                             </td>
             <td align="center">2 183 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 22h 22m</td>
+            <td align="center">1d 23h 10m</td>
         </tr>
             <tr>
             <td align="center">2023</td>
@@ -1880,13 +1888,13 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">15 - 30 km</td>
-            <td align="center">253</td>
+            <td align="center">254</td>
             <td align="center">
                                      22 <sup><sub>km avg</sub></sup> /
-                     5 528 <sup><sub>km total</sub></sup>
+                     5 553 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">11 515 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 3d 16h 14m</td>
+            <td align="center">1w 3d 17h 2m</td>
             <td align="center">21.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -2714,6 +2722,194 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
                             </td>
                     </tr>
             <tr>
+            <td align="center">Climb a total of 7500m</td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                        <td align="center">
+                            </td>
+                    </tr>
+            <tr>
             <td align="center">Complete a 100km ride</td>
                         <td align="center">
                             </td>
@@ -2855,194 +3051,6 @@ I burned `570126 calories` doing so, that's about `2 112` pizza slices 🍕
                             </td>
                         <td align="center">
                                     <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                    </tr>
-            <tr>
-            <td align="center">Climb a total of 7500m</td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/check-mark.svg" width="20" alt="Check mark" title="Check mark"/>
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
-                            </td>
-                        <td align="center">
                             </td>
                         <td align="center">
                             </td>
