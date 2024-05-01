@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Met de bakfiets naar Sluis" title="Met de bakfiets naar Sluis"/>
+<a href="https://www.strava.com/activities/11307747049" title="Kcal: 1011 | Gear: None ">Met de bakfiets naar Sluis</a>
+            </td>
+            <td align="center">59 <sup><sub>km</sub></sup></td>
+            <td align="center">57 <sup><sub>m</sub></sup></td>
+            <td align="center">2:47:09</td>
+            <td align="center">67 <sup><sub>w</sub></sup></td>
+            <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">110</td>
+        </tr>
+            <tr>
+            <td>30-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Renéetje gaan inschrijven in &#039;t school 😱" title="Renéetje gaan inschrijven in &#039;t school 😱"/>
+<a href="https://www.strava.com/activities/11301734033" title="Kcal: 155 | Gear: None ">Renéetje gaan inschrijven ...</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">12 <sup><sub>m</sub></sup></td>
+            <td align="center">14:49</td>
+            <td align="center">93 <sup><sub>w</sub></sup></td>
+            <td align="center">20.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">126</td>
+        </tr>
+            <tr>
             <td>28-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Platten band &gt; LoFi &gt; Fietswissel &gt; Bijna een KOM &gt; Delivery &gt; +1" title="Platten band &gt; LoFi &gt; Fietswissel &gt; Bijna een KOM &gt; Delivery &gt; +1"/>
@@ -47,32 +73,6 @@
             <td align="center">n/a</td>
             <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">111</td>
-        </tr>
-            <tr>
-            <td>24-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="BianchiBro" title="BianchiBro"/>
-<a href="https://www.strava.com/activities/11255565625" title="Kcal: 1148 | Gear: None ">BianchiBro</a>
-            </td>
-            <td align="center">50 <sup><sub>km</sub></sup></td>
-            <td align="center">98 <sup><sub>m</sub></sup></td>
-            <td align="center">2:08:58</td>
-            <td align="center">206 <sup><sub>w</sub></sup></td>
-            <td align="center">23.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
-        </tr>
-            <tr>
-            <td>23-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="0.0° om 7u &#039;s morgens = geen 🚴‍♂️ commute" title="0.0° om 7u &#039;s morgens = geen 🚴‍♂️ commute"/>
-<a href="https://www.strava.com/activities/11249368842" title="Kcal: 487 | Gear: None ">0.0° om 7u &#039;s morgens = ge...</a>
-            </td>
-            <td align="center">47 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1:31:29</td>
-            <td align="center">n/a</td>
-            <td align="center">31 <sup><sub>km/h</sub></sup></td>
-            <td align="center">107</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
