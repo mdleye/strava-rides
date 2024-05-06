@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>05-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🍟" title="🍟"/>
+<a href="https://www.strava.com/activities/11340912474" title="Kcal: 124 | Gear: None ">🍟</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">4 <sup><sub>m</sub></sup></td>
+            <td align="center">18:46</td>
+            <td align="center">56 <sup><sub>w</sub></sup></td>
+            <td align="center">17 <sup><sub>km/h</sub></sup></td>
+            <td align="center">106</td>
+        </tr>
+            <tr>
             <td>04-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Pannekoekske met de deleievrienden" title="Pannekoekske met de deleievrienden"/>
@@ -21,6 +34,19 @@
             <td align="center">140 <sup><sub>w</sub></sup></td>
             <td align="center">27 <sup><sub>km/h</sub></sup></td>
             <td align="center">145</td>
+        </tr>
+            <tr>
+            <td>03-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏊‍♂️🍕🛵🍺" title="🏊‍♂️🍕🛵🍺"/>
+<a href="https://www.strava.com/activities/11341473288" title="Kcal: 624 | Gear: None ">🏊‍♂️🍕🛵🍺</a>
+            </td>
+            <td align="center">28 <sup><sub>km</sub></sup></td>
+            <td align="center">41 <sup><sub>m</sub></sup></td>
+            <td align="center">1:20:55</td>
+            <td align="center">69 <sup><sub>w</sub></sup></td>
+            <td align="center">20.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">115</td>
         </tr>
             <tr>
             <td>01-05-24</td>
@@ -47,32 +73,6 @@
             <td align="center">67 <sup><sub>w</sub></sup></td>
             <td align="center">21.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">110</td>
-        </tr>
-            <tr>
-            <td>30-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Renéetje gaan inschrijven in &#039;t school 😱" title="Renéetje gaan inschrijven in &#039;t school 😱"/>
-<a href="https://www.strava.com/activities/11301734033" title="Kcal: 155 | Gear: None ">Renéetje gaan inschrijven ...</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">12 <sup><sub>m</sub></sup></td>
-            <td align="center">14:49</td>
-            <td align="center">93 <sup><sub>w</sub></sup></td>
-            <td align="center">20.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">126</td>
-        </tr>
-            <tr>
-            <td>28-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Platten band &gt; LoFi &gt; Fietswissel &gt; Bijna een KOM &gt; Delivery &gt; +1" title="Platten band &gt; LoFi &gt; Fietswissel &gt; Bijna een KOM &gt; Delivery &gt; +1"/>
-<a href="https://www.strava.com/activities/11286660216" title="Kcal: 512 | Gear: None ">Platten band &gt; LoFi &gt; Fiet...</a>
-            </td>
-            <td align="center">15 <sup><sub>km</sub></sup></td>
-            <td align="center">31 <sup><sub>m</sub></sup></td>
-            <td align="center">50:07</td>
-            <td align="center">75 <sup><sub>w</sub></sup></td>
-            <td align="center">18.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
