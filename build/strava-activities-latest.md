@@ -12,8 +12,8 @@
             <tr>
             <td>11-05-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/11387693225" title="Kcal: 3295 | Gear: None ">Ochtendrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="#teamDenys voor KOTK 🌼☀️👷‍♂️" title="#teamDenys voor KOTK 🌼☀️👷‍♂️"/>
+<a href="https://www.strava.com/activities/11387693225" title="Kcal: 3295 | Gear: None ">#teamDenys voor KOTK 🌼☀️👷‍...</a>
             </td>
             <td align="center">248 <sup><sub>km</sub></sup></td>
             <td align="center">272 <sup><sub>m</sub></sup></td>
