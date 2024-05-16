@@ -12,8 +12,8 @@
             <tr>
             <td>15-05-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
-<a href="https://www.strava.com/activities/11418476856" title="Kcal: 1126 | Gear: None ">Namiddagrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Rustdag" title="Rustdag"/>
+<a href="https://www.strava.com/activities/11418476856" title="Kcal: 1126 | Gear: None ">Rustdag</a>
             </td>
             <td align="center">51 <sup><sub>km</sub></sup></td>
             <td align="center">66 <sup><sub>m</sub></sup></td>
