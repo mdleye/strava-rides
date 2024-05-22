@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>22-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🚴‍♂️👷‍♂️🚴‍♂️" title="🚴‍♂️👷‍♂️🚴‍♂️"/>
+<a href="https://www.strava.com/activities/11473250770" title="Kcal: 191 | Gear: None ">🚴‍♂️👷‍♂️🚴‍♂️...</a>
+            </td>
+            <td align="center">8 <sup><sub>km</sub></sup></td>
+            <td align="center">18 <sup><sub>m</sub></sup></td>
+            <td align="center">25:39</td>
+            <td align="center">60 <sup><sub>w</sub></sup></td>
+            <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">116</td>
+        </tr>
+            <tr>
             <td>21-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Triathlon testje 🚴‍♂️" title="Triathlon testje 🚴‍♂️"/>
@@ -21,6 +34,19 @@
             <td align="center">157 <sup><sub>w</sub></sup></td>
             <td align="center">30.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">157</td>
+        </tr>
+            <tr>
+            <td>20-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="👴👵👧🏊‍♂️" title="👴👵👧🏊‍♂️"/>
+<a href="https://www.strava.com/activities/11469012759" title="Kcal: 345 | Gear: None ">👴👵👧🏊‍♂️</a>
+            </td>
+            <td align="center">18 <sup><sub>km</sub></sup></td>
+            <td align="center">75 <sup><sub>m</sub></sup></td>
+            <td align="center">47:18</td>
+            <td align="center">99 <sup><sub>w</sub></sup></td>
+            <td align="center">23.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">113</td>
         </tr>
             <tr>
             <td>18-05-24</td>
@@ -47,32 +73,6 @@
             <td align="center">71 <sup><sub>w</sub></sup></td>
             <td align="center">18.3 <sup><sub>km/h</sub></sup></td>
             <td align="center">124</td>
-        </tr>
-            <tr>
-            <td>17-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Koppeltraining 🚴 toertje van de vaart" title="Koppeltraining 🚴 toertje van de vaart"/>
-<a href="https://www.strava.com/activities/11430644526" title="Kcal: 1563 | Gear: None ">Koppeltraining 🚴 toertje v...</a>
-            </td>
-            <td align="center">74 <sup><sub>km</sub></sup></td>
-            <td align="center">58 <sup><sub>m</sub></sup></td>
-            <td align="center">2:26:12</td>
-            <td align="center">149 <sup><sub>w</sub></sup></td>
-            <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">151</td>
-        </tr>
-            <tr>
-            <td>15-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Rustdag" title="Rustdag"/>
-<a href="https://www.strava.com/activities/11418476856" title="Kcal: 1126 | Gear: None ">Rustdag</a>
-            </td>
-            <td align="center">51 <sup><sub>km</sub></sup></td>
-            <td align="center">66 <sup><sub>m</sub></sup></td>
-            <td align="center">1:50:14</td>
-            <td align="center">125 <sup><sub>w</sub></sup></td>
-            <td align="center">27.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">139</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
