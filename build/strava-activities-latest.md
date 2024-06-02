@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Knokke Off" title="Knokke Off"/>
+<a href="https://www.strava.com/activities/11557074389" title="Kcal: 1273 | Gear: None ">Knokke Off</a>
+            </td>
+            <td align="center">70 <sup><sub>km</sub></sup></td>
+            <td align="center">106 <sup><sub>m</sub></sup></td>
+            <td align="center">2:26:07</td>
+            <td align="center">146 <sup><sub>w</sub></sup></td>
+            <td align="center">28.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">138</td>
+        </tr>
+            <tr>
+            <td>01-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Change of scenery wegens BK Wiggle Bridge in Lago 🥳" title="Change of scenery wegens BK Wiggle Bridge in Lago 🥳"/>
+<a href="https://www.strava.com/activities/11553308992" title="Kcal: 323 | Gear: None ">Change of scenery wegens B...</a>
+            </td>
+            <td align="center">14 <sup><sub>km</sub></sup></td>
+            <td align="center">39 <sup><sub>m</sub></sup></td>
+            <td align="center">38:35</td>
+            <td align="center">85 <sup><sub>w</sub></sup></td>
+            <td align="center">22.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
             <td>30-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Blokskes" title="Blokskes"/>
@@ -47,32 +73,6 @@
             <td align="center">n/a</td>
             <td align="center">37.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">119</td>
-        </tr>
-            <tr>
-            <td>25-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Gemeentes rakelen voor Bruno zonder kaffie ☕" title="Gemeentes rakelen voor Bruno zonder kaffie ☕"/>
-<a href="https://www.strava.com/activities/11494494621" title="Kcal: 1545 | Gear: None ">Gemeentes rakelen voor Bru...</a>
-            </td>
-            <td align="center">70 <sup><sub>km</sub></sup></td>
-            <td align="center">139 <sup><sub>m</sub></sup></td>
-            <td align="center">2:22:41</td>
-            <td align="center">163 <sup><sub>w</sub></sup></td>
-            <td align="center">29.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>24-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="naar het Beire bad van Brugge 🐻" title="naar het Beire bad van Brugge 🐻"/>
-<a href="https://www.strava.com/activities/11498713609" title="Kcal: 173 | Gear: None ">naar het Beire bad van Bru...</a>
-            </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">27 <sup><sub>m</sub></sup></td>
-            <td align="center">20:57</td>
-            <td align="center">101 <sup><sub>w</sub></sup></td>
-            <td align="center">22.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">116</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
