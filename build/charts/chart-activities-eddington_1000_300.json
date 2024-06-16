@@ -276,16 +276,16 @@
                 "splitLine": {
                     "show": true
                 },
-                "max": 750,
-                "interval": 150
+                "max": 780,
+                "interval": 180
             },
             {
                 "type": "value",
                 "splitLine": {
                     "show": false
                 },
-                "max": 750,
-                "interval": 150
+                "max": 780,
+                "interval": 180
             }
         ],
         "series": [
@@ -320,9 +320,9 @@
                     ]
                 },
                 "data": [
-                    750,
-                    750,
-                    750,
+                    751,
+                    751,
+                    751,
                     748,
                     747,
                     743,
