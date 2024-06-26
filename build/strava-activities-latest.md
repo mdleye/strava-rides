@@ -12,28 +12,15 @@
             <tr>
             <td>25-06-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Avondrit" title="Avondrit"/>
-<a href="https://www.strava.com/activities/11737749603" title="Kcal: 181 | Gear: None ">Avondrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="K&amp;G&amp;Schommel" title="K&amp;G&amp;Schommel"/>
+<a href="https://www.strava.com/activities/11738264715" title="Kcal: 128 | Gear: None ">K&amp;G&amp;Schommel</a>
             </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">6 <sup><sub>m</sub></sup></td>
-            <td align="center">24:56</td>
-            <td align="center">54 <sup><sub>w</sub></sup></td>
-            <td align="center">17.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">115</td>
-        </tr>
-            <tr>
-            <td>25-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Avondrit" title="Avondrit"/>
-<a href="https://www.strava.com/activities/11737034845" title="Kcal: 86 | Gear: None ">Avondrit</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">10 <sup><sub>m</sub></sup></td>
-            <td align="center">7:09</td>
-            <td align="center">78 <sup><sub>w</sub></sup></td>
-            <td align="center">19.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">26 <sup><sub>m</sub></sup></td>
+            <td align="center">32:18</td>
+            <td align="center">59 <sup><sub>w</sub></sup></td>
+            <td align="center">17.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">119</td>
         </tr>
             <tr>
             <td>24-06-24</td>
@@ -73,6 +60,19 @@
             <td align="center">87 <sup><sub>w</sub></sup></td>
             <td align="center">21.6 <sup><sub>km/h</sub></sup></td>
             <td align="center">132</td>
+        </tr>
+            <tr>
+            <td>16-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Bosbezoek" title="Bosbezoek"/>
+<a href="https://www.strava.com/activities/11664313055" title="Kcal: 95 | Gear: None ">Bosbezoek</a>
+            </td>
+            <td align="center">3 <sup><sub>km</sub></sup></td>
+            <td align="center">6 <sup><sub>m</sub></sup></td>
+            <td align="center">13:16</td>
+            <td align="center">56 <sup><sub>w</sub></sup></td>
+            <td align="center">14.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">98</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
