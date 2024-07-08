@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>08-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Olloy-Sur-Viroin 🏕️ &gt; Brûly-de-Pesche 🪖 &gt; Chimay 🍺" title="Olloy-Sur-Viroin 🏕️ &gt; Brûly-de-Pesche 🪖 &gt; Chimay 🍺"/>
+<a href="https://www.strava.com/activities/11839320194" title="Kcal: 2959 | Gear: None ">Olloy-Sur-Viroin 🏕️ &gt; Brûl...</a>
+            </td>
+            <td align="center">80 <sup><sub>km</sub></sup></td>
+            <td align="center">1 005 <sup><sub>m</sub></sup></td>
+            <td align="center">3:52:33</td>
+            <td align="center">190 <sup><sub>w</sub></sup></td>
+            <td align="center">20.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">146</td>
+        </tr>
+            <tr>
+            <td>08-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🥐🥖" title="🥐🥖"/>
+<a href="https://www.strava.com/activities/11835380595" title="Kcal: 151 | Gear: None ">🥐🥖</a>
+            </td>
+            <td align="center">4 <sup><sub>km</sub></sup></td>
+            <td align="center">171 <sup><sub>m</sub></sup></td>
+            <td align="center">16:55</td>
+            <td align="center">165 <sup><sub>w</sub></sup></td>
+            <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">124</td>
+        </tr>
+            <tr>
             <td>01-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🇧🇪" title="🇧🇪"/>
@@ -47,32 +73,6 @@
             <td align="center">72 <sup><sub>w</sub></sup></td>
             <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">117</td>
-        </tr>
-            <tr>
-            <td>27-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Familyshoppingk 🛒" title="Familyshoppingk 🛒"/>
-<a href="https://www.strava.com/activities/11753690502" title="Kcal: 199 | Gear: None ">Familyshoppingk 🛒</a>
-            </td>
-            <td align="center">7 <sup><sub>km</sub></sup></td>
-            <td align="center">8 <sup><sub>m</sub></sup></td>
-            <td align="center">28:36</td>
-            <td align="center">60 <sup><sub>w</sub></sup></td>
-            <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">115</td>
-        </tr>
-            <tr>
-            <td>26-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🇧🇪⚽🎾🌷🌸🌹🌺🌻🌼🏵️🪻🚿" title="🇧🇪⚽🎾🌷🌸🌹🌺🌻🌼🏵️🪻🚿"/>
-<a href="https://www.strava.com/activities/11755181373" title="Kcal: 622 | Gear: None ">🇧🇪⚽🎾🌷🌸🌹🌺🌻🌼🏵️🪻🚿...</a>
-            </td>
-            <td align="center">20 <sup><sub>km</sub></sup></td>
-            <td align="center">45 <sup><sub>m</sub></sup></td>
-            <td align="center">58:07</td>
-            <td align="center">77 <sup><sub>w</sub></sup></td>
-            <td align="center">21 <sup><sub>km/h</sub></sup></td>
-            <td align="center">135</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
