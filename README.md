@@ -55,7 +55,7 @@ I burned `620206 calories` doing so, that's about `2 297` pizza slices 🍕
             <td>28-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Stukske van Île de Ré" title="Stukske van Île de Ré"/>
-<a href="https://www.strava.com/activities/12003146979" title="Kcal: 739 | Gear: Ridley Fenix ">Stukske van Île de Ré</a>
+<a href="https://www.strava.com/activities/12003146979" title="Kcal: 739 | Gear: None ">Stukske van Île de Ré</a>
             </td>
             <td align="center">26 <sup><sub>km</sub></sup></td>
             <td align="center">31 <sup><sub>m</sub></sup></td>
@@ -1595,14 +1595,14 @@ I burned `620206 calories` doing so, that's about `2 297` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Ridley Fenix</td>
-            <td align="center">45</td>
+            <td align="center">44</td>
             <td align="center">
-                                    57 <sup><sub>km avg</sub></sup> /
-                    2 586 <sup><sub>km total</sub></sup>
+                                    58 <sup><sub>km avg</sub></sup> /
+                    2 560 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">6 665 <sup><sub>m</sub></sup></td>
-            <td align="center">3d 22h 22m</td>
-            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">6 634 <sup><sub>m</sub></sup></td>
+            <td align="center">3d 20h 48m</td>
+            <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Ridley Blast MTB ☠️</td>
@@ -1661,14 +1661,14 @@ I burned `620206 calories` doing so, that's about `2 297` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Other</td>
-            <td align="center">31</td>
+            <td align="center">32</td>
             <td align="center">
                                     23 <sup><sub>km avg</sub></sup> /
-                    716 <sup><sub>km total</sub></sup>
+                    742 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">2 905 <sup><sub>m</sub></sup></td>
-            <td align="center">1d 10h 3m</td>
-            <td align="center">21.0 <sup><sub>km/h</sub></sup></td>
+            <td align="center">2 936 <sup><sub>m</sub></sup></td>
+            <td align="center">1d 11h 36m</td>
+            <td align="center">20.8 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
 </table>
