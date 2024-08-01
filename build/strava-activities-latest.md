@@ -10,6 +10,45 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>01-08-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afterwork rit zonder het work gedeelte" title="Afterwork rit zonder het work gedeelte"/>
+<a href="https://www.strava.com/activities/12037761917" title="Kcal: 1602 | Gear: None ">Afterwork rit zonder het w...</a>
+            </td>
+            <td align="center">72 <sup><sub>km</sub></sup></td>
+            <td align="center">109 <sup><sub>m</sub></sup></td>
+            <td align="center">2:34:07</td>
+            <td align="center">133 <sup><sub>w</sub></sup></td>
+            <td align="center">28 <sup><sub>km/h</sub></sup></td>
+            <td align="center">149</td>
+        </tr>
+            <tr>
+            <td>31-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🥩" title="🥩"/>
+<a href="https://www.strava.com/activities/12030313393" title="Kcal: 343 | Gear: None ">🥩</a>
+            </td>
+            <td align="center">17 <sup><sub>km</sub></sup></td>
+            <td align="center">33 <sup><sub>m</sub></sup></td>
+            <td align="center">54:40</td>
+            <td align="center">63 <sup><sub>w</sub></sup></td>
+            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">109</td>
+        </tr>
+            <tr>
+            <td>30-07-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Verloftrappen met vrouw en kind" title="Verloftrappen met vrouw en kind"/>
+<a href="https://www.strava.com/activities/12033754581" title="Kcal: 754 | Gear: None ">Verloftrappen met vrouw en...</a>
+            </td>
+            <td align="center">28 <sup><sub>km</sub></sup></td>
+            <td align="center">61 <sup><sub>m</sub></sup></td>
+            <td align="center">1:26:11</td>
+            <td align="center">72 <sup><sub>w</sub></sup></td>
+            <td align="center">19.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">123</td>
+        </tr>
+            <tr>
             <td>28-07-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Stukske van Île de Ré" title="Stukske van Île de Ré"/>
@@ -34,45 +73,6 @@
             <td align="center">137 <sup><sub>w</sub></sup></td>
             <td align="center">25.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">144</td>
-        </tr>
-            <tr>
-            <td>23-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Aubeterre-sur-Dronne 🥞🌻🇫🇷" title="Aubeterre-sur-Dronne 🥞🌻🇫🇷"/>
-<a href="https://www.strava.com/activities/11961041290" title="Kcal: 2006 | Gear: None ">Aubeterre-sur-Dronne 🥞🌻🇫🇷...</a>
-            </td>
-            <td align="center">78 <sup><sub>km</sub></sup></td>
-            <td align="center">881 <sup><sub>m</sub></sup></td>
-            <td align="center">3:13:36</td>
-            <td align="center">122 <sup><sub>w</sub></sup></td>
-            <td align="center">24.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">145</td>
-        </tr>
-            <tr>
-            <td>18-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Verlof is gank" title="Verlof is gank"/>
-<a href="https://www.strava.com/activities/11922761368" title="Kcal: 853 | Gear: None ">Verlof is gank</a>
-            </td>
-            <td align="center">33 <sup><sub>km</sub></sup></td>
-            <td align="center">88 <sup><sub>m</sub></sup></td>
-            <td align="center">1:41:26</td>
-            <td align="center">71 <sup><sub>w</sub></sup></td>
-            <td align="center">19.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">119</td>
-        </tr>
-            <tr>
-            <td>14-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="MonkeyFarm" title="MonkeyFarm"/>
-<a href="https://www.strava.com/activities/11887864006" title="Kcal: 1208 | Gear: None ">MonkeyFarm</a>
-            </td>
-            <td align="center">39 <sup><sub>km</sub></sup></td>
-            <td align="center">64 <sup><sub>m</sub></sup></td>
-            <td align="center">1:38:15</td>
-            <td align="center">216 <sup><sub>w</sub></sup></td>
-            <td align="center">23.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">147</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
