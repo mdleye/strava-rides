@@ -12,15 +12,15 @@
             <tr>
             <td>02-08-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
-<a href="https://www.strava.com/activities/12044556856" title="Kcal: 183 | Gear: None ">Namiddagrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Padellerie 🎾" title="Padellerie 🎾"/>
+<a href="https://www.strava.com/activities/12046321164" title="Kcal: 379 | Gear: None ">Padellerie 🎾</a>
             </td>
-            <td align="center">8 <sup><sub>km</sub></sup></td>
-            <td align="center">19 <sup><sub>m</sub></sup></td>
-            <td align="center">20:52</td>
-            <td align="center">95 <sup><sub>w</sub></sup></td>
-            <td align="center">23.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">120</td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">43 <sup><sub>m</sub></sup></td>
+            <td align="center">39:27</td>
+            <td align="center">105 <sup><sub>w</sub></sup></td>
+            <td align="center">24.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">126</td>
         </tr>
             <tr>
             <td>01-08-24</td>
