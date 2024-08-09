@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>09-08-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Als Pierlapont toe is gaan we naar de paters van Zevekerke 😴 ⚫" title="Als Pierlapont toe is gaan we naar de paters van Zevekerke 😴 ⚫"/>
+<a href="https://www.strava.com/activities/12103840700" title="Kcal: 309 | Gear: None ">Als Pierlapont toe is gaan...</a>
+            </td>
+            <td align="center">13 <sup><sub>km</sub></sup></td>
+            <td align="center">13 <sup><sub>m</sub></sup></td>
+            <td align="center">42:44</td>
+            <td align="center">62 <sup><sub>w</sub></sup></td>
+            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">114</td>
+        </tr>
+            <tr>
+            <td>08-08-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Padelivery 🎾🍋" title="Padelivery 🎾🍋"/>
+<a href="https://www.strava.com/activities/12101109763" title="Kcal: 559 | Gear: None ">Padelivery 🎾🍋</a>
+            </td>
+            <td align="center">21 <sup><sub>km</sub></sup></td>
+            <td align="center">64 <sup><sub>m</sub></sup></td>
+            <td align="center">51:04</td>
+            <td align="center">117 <sup><sub>w</sub></sup></td>
+            <td align="center">25.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">137</td>
+        </tr>
+            <tr>
             <td>07-08-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="👶🔃✅" title="👶🔃✅"/>
@@ -47,32 +73,6 @@
             <td align="center">105 <sup><sub>w</sub></sup></td>
             <td align="center">24.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">126</td>
-        </tr>
-            <tr>
-            <td>01-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Afterwork rit zonder het work gedeelte" title="Afterwork rit zonder het work gedeelte"/>
-<a href="https://www.strava.com/activities/12037761917" title="Kcal: 1602 | Gear: None ">Afterwork rit zonder het w...</a>
-            </td>
-            <td align="center">72 <sup><sub>km</sub></sup></td>
-            <td align="center">109 <sup><sub>m</sub></sup></td>
-            <td align="center">2:34:07</td>
-            <td align="center">133 <sup><sub>w</sub></sup></td>
-            <td align="center">28 <sup><sub>km/h</sub></sup></td>
-            <td align="center">149</td>
-        </tr>
-            <tr>
-            <td>31-07-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🥩" title="🥩"/>
-<a href="https://www.strava.com/activities/12030313393" title="Kcal: 343 | Gear: None ">🥩</a>
-            </td>
-            <td align="center">17 <sup><sub>km</sub></sup></td>
-            <td align="center">33 <sup><sub>m</sub></sup></td>
-            <td align="center">54:40</td>
-            <td align="center">63 <sup><sub>w</sub></sup></td>
-            <td align="center">18.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">109</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
