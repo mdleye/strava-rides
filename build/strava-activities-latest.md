@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="VBC" title="VBC"/>
+<a href="https://www.strava.com/activities/12347787020" title="Kcal: 445 | Gear: None ">VBC</a>
+            </td>
+            <td align="center">17 <sup><sub>km</sub></sup></td>
+            <td align="center">94 <sup><sub>m</sub></sup></td>
+            <td align="center">44:56</td>
+            <td align="center">80 <sup><sub>w</sub></sup></td>
+            <td align="center">22.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">127</td>
+        </tr>
+            <tr>
             <td>05-09-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="⚽TREBLE⚽" title="⚽TREBLE⚽"/>
@@ -60,19 +73,6 @@
             <td align="center">55 <sup><sub>w</sub></sup></td>
             <td align="center">16.7 <sup><sub>km/h</sub></sup></td>
             <td align="center">95</td>
-        </tr>
-            <tr>
-            <td>31-08-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Fjiesta" title="Fjiesta"/>
-<a href="https://www.strava.com/activities/12293572065" title="Kcal: 226 | Gear: None ">Fjiesta</a>
-            </td>
-            <td align="center">9 <sup><sub>km</sub></sup></td>
-            <td align="center">52 <sup><sub>m</sub></sup></td>
-            <td align="center">22:49</td>
-            <td align="center">85 <sup><sub>w</sub></sup></td>
-            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">127</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
