@@ -19,7 +19,7 @@ class Gear
         #[ORM\Column(type: 'integer')]
         private int $distanceInMeter,
         #[ORM\Column(type: 'json')]
-        private array $data
+        private array $data,
     ) {
     }
 
@@ -30,7 +30,7 @@ class Gear
         GearId $gearId,
         array $data,
         int $distanceInMeter,
-        SerializableDateTime $createdOn
+        SerializableDateTime $createdOn,
     ): self {
         return new self(
             gearId: $gearId,
@@ -47,7 +47,7 @@ class Gear
         GearId $gearId,
         array $data,
         int $distanceInMeter,
-        SerializableDateTime $createdOn
+        SerializableDateTime $createdOn,
     ): self {
         return new self(
             gearId: $gearId,
@@ -82,10 +82,19 @@ class Gear
         return $this->data['retired'] ?? false;
     }
 
-    public function updateDistance(float $distance, float $convertedDistance): void
+    public function updateIsRetired(bool $isRetired): self
+    {
+        $this->data['retired'] = $isRetired;
+
+        return $this;
+    }
+
+    public function updateDistance(float $distance, float $convertedDistance): self
     {
         $this->distanceInMeter = (int) $distance;
         $this->data['converted_distance'] = $convertedDistance;
+
+        return $this;
     }
 
     public function getCreatedOn(): SerializableDateTime
