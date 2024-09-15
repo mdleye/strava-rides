@@ -80,8 +80,8 @@ I burned `637652 calories` doing so, that's about `2 362` pizza slices 🍕
             <tr>
             <td>08-09-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="80 jaar bevrijding 🇨🇦🪖🍦2️⃣" title="80 jaar bevrijding 🇨🇦🪖🍦2️⃣"/>
-<a href="https://www.strava.com/activities/12360967210" title="Kcal: 574 | Gear: State Bicycle Rutherford 3.0 ">80 jaar bevrijding 🇨🇦🪖🍦2️⃣...</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="80 jaar bevrijding 🇨🇦🪖🥞2️⃣" title="80 jaar bevrijding 🇨🇦🪖🥞2️⃣"/>
+<a href="https://www.strava.com/activities/12360967210" title="Kcal: 574 | Gear: State Bicycle Rutherford 3.0 ">80 jaar bevrijding 🇨🇦🪖🥞2️⃣...</a>
             </td>
             <td align="center">26 <sup><sub>km</sub></sup></td>
             <td align="center">71 <sup><sub>m</sub></sup></td>
