@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>19-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
+<a href="https://www.strava.com/activities/12450962969" title="Kcal: 157 | Gear: None ">Namiddagrit</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">6 <sup><sub>m</sub></sup></td>
+            <td align="center">16:41</td>
+            <td align="center">70 <sup><sub>w</sub></sup></td>
+            <td align="center">17.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">115</td>
+        </tr>
+            <tr>
+            <td>19-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Met nr. 1 nr skool" title="Met nr. 1 nr skool"/>
+<a href="https://www.strava.com/activities/12447888497" title="Kcal: 135 | Gear: None ">Met nr. 1 nr skool</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">9 <sup><sub>m</sub></sup></td>
+            <td align="center">13:52</td>
+            <td align="center">82 <sup><sub>w</sub></sup></td>
+            <td align="center">20.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
+        </tr>
+            <tr>
             <td>15-09-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Waiting Game 🌔 &gt; &quot; &#039;k Denk dat je beter naar huis komt&quot;, zegt Abi. &gt; 👶🏻" title="The Waiting Game 🌔 &gt; &quot; &#039;k Denk dat je beter naar huis komt&quot;, zegt Abi. &gt; 👶🏻"/>
@@ -47,32 +73,6 @@
             <td align="center">113 <sup><sub>w</sub></sup></td>
             <td align="center">25.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">150</td>
-        </tr>
-            <tr>
-            <td>08-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="80 jaar bevrijding 🇨🇦🪖🥞2️⃣" title="80 jaar bevrijding 🇨🇦🪖🥞2️⃣"/>
-<a href="https://www.strava.com/activities/12360967210" title="Kcal: 574 | Gear: None ">80 jaar bevrijding 🇨🇦🪖🥞2️⃣...</a>
-            </td>
-            <td align="center">26 <sup><sub>km</sub></sup></td>
-            <td align="center">71 <sup><sub>m</sub></sup></td>
-            <td align="center">1:25:18</td>
-            <td align="center">64 <sup><sub>w</sub></sup></td>
-            <td align="center">17.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">111</td>
-        </tr>
-            <tr>
-            <td>07-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="80 jaar bevrijding 🇨🇦🪖🍦" title="80 jaar bevrijding 🇨🇦🪖🍦"/>
-<a href="https://www.strava.com/activities/12352712731" title="Kcal: 392 | Gear: None ">80 jaar bevrijding 🇨🇦🪖🍦...</a>
-            </td>
-            <td align="center">12 <sup><sub>km</sub></sup></td>
-            <td align="center">34 <sup><sub>m</sub></sup></td>
-            <td align="center">48:13</td>
-            <td align="center">42 <sup><sub>w</sub></sup></td>
-            <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">116</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
