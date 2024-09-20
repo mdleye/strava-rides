@@ -10,17 +10,17 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
-            <td>19-09-24</td>
+            <td>20-09-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Namiddagrit" title="Namiddagrit"/>
-<a href="https://www.strava.com/activities/12450962969" title="Kcal: 157 | Gear: None ">Namiddagrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Traveling Postman Problem 📬" title="Traveling Postman Problem 📬"/>
+<a href="https://www.strava.com/activities/12460899230" title="Kcal: 436 | Gear: None ">Traveling Postman Problem ...</a>
             </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">6 <sup><sub>m</sub></sup></td>
-            <td align="center">16:41</td>
-            <td align="center">70 <sup><sub>w</sub></sup></td>
-            <td align="center">17.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">115</td>
+            <td align="center">31 <sup><sub>km</sub></sup></td>
+            <td align="center">48 <sup><sub>m</sub></sup></td>
+            <td align="center">1:30:35</td>
+            <td align="center">72 <sup><sub>w</sub></sup></td>
+            <td align="center">20.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">120</td>
         </tr>
             <tr>
             <td>19-09-24</td>
