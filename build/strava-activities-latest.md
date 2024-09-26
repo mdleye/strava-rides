@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒💉🆎" title="🏫🎒💉🆎"/>
+<a href="https://www.strava.com/activities/12506724703" title="Kcal: 443 | Gear: None ">🏫🎒💉🆎</a>
+            </td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">27 <sup><sub>m</sub></sup></td>
+            <td align="center">41:16</td>
+            <td align="center">79 <sup><sub>w</sub></sup></td>
+            <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
+        </tr>
+            <tr>
+            <td>25-09-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🧗🏻‍♀️Duell am Abgrund🧗🏻‍♀️" title="🧗🏻‍♀️Duell am Abgrund🧗🏻‍♀️"/>
+<a href="https://www.strava.com/activities/12503787722" title="Kcal: 474 | Gear: None ">🧗🏻‍♀️Duell am Abgrund🧗🏻‍♀️...</a>
+            </td>
+            <td align="center">42 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1:29:23</td>
+            <td align="center">n/a</td>
+            <td align="center">28.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">108</td>
+        </tr>
+            <tr>
             <td>23-09-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Traveling Postman Problem Bis 📬‍⚕️🏫" title="Traveling Postman Problem Bis 📬‍⚕️🏫"/>
@@ -47,32 +73,6 @@
             <td align="center">72 <sup><sub>w</sub></sup></td>
             <td align="center">20.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>19-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Met nr. 1 nr skool" title="Met nr. 1 nr skool"/>
-<a href="https://www.strava.com/activities/12447888497" title="Kcal: 135 | Gear: None ">Met nr. 1 nr skool</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">9 <sup><sub>m</sub></sup></td>
-            <td align="center">13:52</td>
-            <td align="center">82 <sup><sub>w</sub></sup></td>
-            <td align="center">20.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>15-09-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="The Waiting Game 🌔 &gt; &quot; &#039;k Denk dat je beter naar huis komt&quot;, zegt Abi. &gt; 👶🏻" title="The Waiting Game 🌔 &gt; &quot; &#039;k Denk dat je beter naar huis komt&quot;, zegt Abi. &gt; 👶🏻"/>
-<a href="https://www.strava.com/activities/12419458720" title="Kcal: 837 | Gear: None ">The Waiting Game 🌔 &gt; &quot; &#039;k ...</a>
-            </td>
-            <td align="center">26 <sup><sub>km</sub></sup></td>
-            <td align="center">92 <sup><sub>m</sub></sup></td>
-            <td align="center">1:12:40</td>
-            <td align="center">195 <sup><sub>w</sub></sup></td>
-            <td align="center">21.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">144</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>

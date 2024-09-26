@@ -1,38 +1,38 @@
 <svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1000 300">
 <rect width="1000" height="300" x="0" y="0" id="0" fill="#ffffff"></rect>
-<polyline points="544 46.5 549.9 32.7 564.9 32.7" fill="none" stroke="#5470c6"></polyline>
-<polyline points="601.9 102.3 615.5 96 630.5 96" fill="none" stroke="#91cc75"></polyline>
-<polyline points="604.9 190.5 618.9 195.9 633.9 195.9" fill="none" stroke="#fac858"></polyline>
-<polyline points="534.6 257 539.3 271.3 554.3 271.3" fill="none" stroke="#ee6666"></polyline>
-<polyline points="452 251.7 445.6 265.3 430.6 265.3" fill="none" stroke="#73c0de"></polyline>
-<polyline points="388.8 167.1 374 169.4 359 169.4" fill="none" stroke="#3ba272"></polyline>
-<polyline points="441.8 53.7 434 40.9 419 40.9" fill="none" stroke="#fc8452"></polyline>
-<path d="M500 37.5A112.5 112.5 0 0 1 581 72L500 150Z" fill="#5470c6" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M581 72A112.5 112.5 0 0 1 611.8 137.8L500 150Z" fill="#91cc75" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M611.8 137.8A112.5 112.5 0 0 1 574.6 234.2L500 150Z" fill="#fac858" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M574.6 234.2A112.5 112.5 0 0 1 488.8 261.9L500 150Z" fill="#ee6666" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M488.8 261.9A112.5 112.5 0 0 1 420.6 229.7L500 150Z" fill="#73c0de" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M420.6 229.7A112.5 112.5 0 0 1 400.4 97.8L500 150Z" fill="#3ba272" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M400.4 97.8A112.5 112.5 0 0 1 500 37.5L500 150Z" fill="#fc8452" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
-<path d="M0 -15l42.8 0l0 30l-42.8 0Z" transform="translate(569.9096 32.6745)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(569.9096 32.6745)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Monday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(569.9096 32.6745)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">12.8%</text>
-<path d="M0 -15l46.2 0l0 30l-46.2 0Z" transform="translate(635.4968 95.9932)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(635.4968 95.9932)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Tuesday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(635.4968 95.9932)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">10.47%</text>
-<path d="M0 -15l63.6 0l0 30l-63.6 0Z" transform="translate(638.937 195.9374)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(638.937 195.9374)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wednesday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(638.937 195.9374)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">15.18%</text>
-<path d="M0 -15l50.2 0l0 30l-50.2 0Z" transform="translate(559.2548 271.3067)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(559.2548 271.3067)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Thursday</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(559.2548 271.3067)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">13.12%</text>
-<path d="M-40.9 -15l40.9 0l0 30l-40.9 0Z" transform="translate(425.558 265.2923)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(425.558 265.2923)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Friday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(425.558 265.2923)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">10.88%</text>
-<path d="M-48.2 -15l48.2 0l0 30l-48.2 0Z" transform="translate(353.9777 169.3556)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(353.9777 169.3556)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Saturday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(353.9777 169.3556)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">20.23%</text>
-<path d="M-40.9 -15l40.9 0l0 30l-40.9 0Z" transform="translate(414.0196 40.8998)" fill="none"></path>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(414.0196 40.8998)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sunday</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(414.0196 40.8998)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">17.32%</text>
+<polyline points="544 46.4 549.8 32.6 564.8 32.6" fill="none" stroke="#5470c6"></polyline>
+<polyline points="601.8 102.1 615.4 95.7 630.4 95.7" fill="none" stroke="#91cc75"></polyline>
+<polyline points="604.9 190.6 618.9 196 633.9 196" fill="none" stroke="#fac858"></polyline>
+<polyline points="534.2 257.2 538.7 271.5 553.7 271.5" fill="none" stroke="#ee6666"></polyline>
+<polyline points="451.5 251.5 445 265 430 265" fill="none" stroke="#73c0de"></polyline>
+<polyline points="388.8 166.7 373.9 169 358.9 169" fill="none" stroke="#3ba272"></polyline>
+<polyline points="441.9 53.7 434.1 40.8 419.1 40.8" fill="none" stroke="#fc8452"></polyline>
+<path d="M500 37.5A112.5 112.5 0 0 1 580.9 71.9L500 150Z" fill="#5470c6" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M580.9 71.9A112.5 112.5 0 0 1 611.8 137.5L500 150Z" fill="#91cc75" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M611.8 137.5A112.5 112.5 0 0 1 574.3 234.4L500 150Z" fill="#fac858" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M574.3 234.4A112.5 112.5 0 0 1 488.2 261.9L500 150Z" fill="#ee6666" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M488.2 261.9A112.5 112.5 0 0 1 420.3 229.4L500 150Z" fill="#73c0de" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M420.3 229.4A112.5 112.5 0 0 1 400.5 97.5L500 150Z" fill="#3ba272" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M400.5 97.5A112.5 112.5 0 0 1 500 37.5L500 150Z" fill="#fc8452" stroke="#fff" stroke-width="2" stroke-linejoin="round"></path>
+<path d="M0 -15l42.8 0l0 30l-42.8 0Z" transform="translate(569.8264 32.6391)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(569.8264 32.6391)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Monday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(569.8264 32.6391)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">12.78%</text>
+<path d="M0 -15l46.2 0l0 30l-46.2 0Z" transform="translate(635.3825 95.7494)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(635.3825 95.7494)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Tuesday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(635.3825 95.7494)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">10.45%</text>
+<path d="M0 -15l63.6 0l0 30l-63.6 0Z" transform="translate(638.9259 195.966)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(638.9259 195.966)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wednesday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(638.9259 195.966)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">15.28%</text>
+<path d="M0 -15l50.2 0l0 30l-50.2 0Z" transform="translate(558.7133 271.4806)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(558.7133 271.4806)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Thursday</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(558.7133 271.4806)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">13.16%</text>
+<path d="M-40.9 -15l40.9 0l0 30l-40.9 0Z" transform="translate(424.9894 265.0221)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(424.9894 265.0221)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Friday</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(424.9894 265.0221)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">10.86%</text>
+<path d="M-48.2 -15l48.2 0l0 30l-48.2 0Z" transform="translate(353.917 168.9557)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(353.917 168.9557)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Saturday</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(353.917 168.9557)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">20.19%</text>
+<path d="M-40.9 -15l40.9 0l0 30l-40.9 0Z" transform="translate(414.1344 40.8305)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="-7.5" transform="translate(414.1344 40.8305)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sunday</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" y="7.5" transform="translate(414.1344 40.8305)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">17.28%</text>
 </svg>
