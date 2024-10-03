@@ -80,7 +80,7 @@
                 "emphasis": {
                     "focus": "series"
                 },
-                "name": "Average distance \/ week",
+                "name": "Distance \/ week",
                 "data": [
                     174,
                     133,
@@ -92,7 +92,7 @@
                     82,
                     66,
                     106,
-                    48
+                    94
                 ],
                 "yAxisIndex": 0
             }
