@@ -43,6 +43,7 @@ use App\Domain\Strava\Gear\GearStatistics;
 use App\Domain\Strava\Gear\ReadModel\GearDetailsRepository;
 use App\Domain\Strava\MonthlyStatistics;
 use App\Domain\Strava\Segment\ReadModel\SegmentDetailsRepository;
+use App\Domain\Strava\Segment\Segment;
 use App\Domain\Strava\Segment\SegmentEffort\ReadModel\SegmentEffortDetailsRepository;
 use App\Domain\Strava\Trivia;
 use App\Infrastructure\Attribute\AsCommandHandler;
@@ -95,6 +96,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
         $allImages = $this->imageRepository->findAll();
         $allFtps = $this->ftpDetailsRepository->findAll();
         $allSegments = $this->segmentDetailsRepository->findAll();
+        $alpeDuZwiftSegment = $allSegments->getAlpeDuZwiftSegment();
 
         $command->getOutput()->writeln('  => Calculating Eddington');
         $eddington = Eddington::fromActivities($allActivities);
@@ -176,6 +178,7 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                 'totalPhotoCount' => count($allImages),
                 'lastUpdate' => $now,
                 'athleteId' => $athleteId,
+                'hasAlpeDuZwiftSegments' => $alpeDuZwiftSegment,
             ]),
         );
 
@@ -311,9 +314,9 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
 
         $command->getOutput()->writeln('  => Building segments.html');
         $dataDatableRows = [];
-        /** @var \App\Domain\Strava\Segment\Segment $segment */
+        /** @var Segment $segment */
         foreach ($allSegments as $segment) {
-            $segmentEfforts = $this->segmentEffortDetailsRepository->findBySegmentIdTopTen($segment->getId());
+            $segmentEfforts = $this->segmentEffortDetailsRepository->findBySegmentId($segment->getId(), 10);
             $segment->enrichWithNumberOfTimesRidden($this->segmentEffortDetailsRepository->countBySegmentId($segment->getId()));
 
             if ($bestSegmentEffort = $segmentEfforts->getBestEffort()) {
@@ -436,6 +439,23 @@ final readonly class BuildHtmlVersionCommandHandler implements CommandHandler
                 'routesInMostRiddenState' => Json::encode($routesInMostRiddenState),
             ]),
         );
+
+        if ($alpeDuZwiftSegment) {
+            $command->getOutput()->writeln('  => Building alpe-du-zwift.html');
+
+            $segmentEfforts = $this->segmentEffortDetailsRepository->findBySegmentId($alpeDuZwiftSegment->getId());
+            foreach ($segmentEfforts as $segmentEffort) {
+                $activity = $allActivities->getByActivityId($segmentEffort->getActivityId());
+                $segmentEffort->enrichWithActivity($activity);
+            }
+
+            $this->filesystem->write(
+                'build/html/alpe-du-zwift.html',
+                $this->twig->load('html/alpe-du-zwift.html.twig')->render([
+                    'segmentEfforts' => $segmentEfforts,
+                ]),
+            );
+        }
 
         $command->getOutput()->writeln('  => Building activity.html');
         $dataDatableRows = [];
