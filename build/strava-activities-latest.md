@@ -10,30 +10,30 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
-            <td>10-10-24</td>
+            <td>11-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Avondrit" title="Avondrit"/>
-<a href="https://www.strava.com/activities/12623754007" title="Kcal: 99 | Gear: None ">Avondrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
+<a href="https://www.strava.com/activities/12626812115" title="Kcal: 134 | Gear: None ">🎒🏫</a>
             </td>
             <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">16 <sup><sub>m</sub></sup></td>
-            <td align="center">10:59</td>
-            <td align="center">95 <sup><sub>w</sub></sup></td>
-            <td align="center">21.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">120</td>
+            <td align="center">7 <sup><sub>m</sub></sup></td>
+            <td align="center">14:05</td>
+            <td align="center">64 <sup><sub>w</sub></sup></td>
+            <td align="center">19.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">124</td>
         </tr>
             <tr>
             <td>10-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12619159823" title="Kcal: 196 | Gear: None ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫🏊🏻‍♀️" title="🎒🏫🏊🏻‍♀️"/>
+<a href="https://www.strava.com/activities/12624653739" title="Kcal: 412 | Gear: None ">🎒🏫🏊🏻‍♀️</a>
             </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">2 <sup><sub>m</sub></sup></td>
-            <td align="center">16:39</td>
-            <td align="center">64 <sup><sub>w</sub></sup></td>
-            <td align="center">17.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">132</td>
+            <td align="center">13 <sup><sub>km</sub></sup></td>
+            <td align="center">38 <sup><sub>m</sub></sup></td>
+            <td align="center">39:24</td>
+            <td align="center">77 <sup><sub>w</sub></sup></td>
+            <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">127</td>
         </tr>
             <tr>
             <td>09-10-24</td>
