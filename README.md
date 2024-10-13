@@ -4,19 +4,19 @@
 </p>
 
 Since I began cycling `9 years and 4 months` ago on `07-03-2016`,
-I had `810 cycling days`.<br />
-I recorded a total distance of `28 504 km`
+I had `804 cycling days`.<br />
+I recorded a total distance of `28 486 km`
 (`0.71` trips around the world 🌍 and
 `0.074` trips to the moon 🌕),
-an elevation of `81 104 m`
+an elevation of `81 106 m`
 (`9.2` times Mount Everest 🏔)
-and a total time of `1mo 3w 2d 42m` 🎉
+and a total time of `1mo 3w 1d 23h 36m` 🎉
 
 That's a daily average of `9 km`,
 a weekly average of `63 km` and a
 monthly average of `274 km` 🐣
 
-I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
+I burned `643708 calories` doing so, that's about `2 384` pizza slices 🍕
 
 ---
 
@@ -54,15 +54,15 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
             <tr>
             <td>11-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12626812115" title="Kcal: 134 | Gear: State Bicycle Rutherford 3.0 ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫🕺🏻" title="🎒🏫🕺🏻"/>
+<a href="https://www.strava.com/activities/12642183211" title="Kcal: 409 | Gear: State Bicycle Rutherford 3.0 ">🎒🏫🕺🏻</a>
             </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">7 <sup><sub>m</sub></sup></td>
-            <td align="center">14:05</td>
-            <td align="center">64 <sup><sub>w</sub></sup></td>
-            <td align="center">19.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">124</td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">65 <sup><sub>m</sub></sup></td>
+            <td align="center">43:57</td>
+            <td align="center">80 <sup><sub>w</sub></sup></td>
+            <td align="center">21 <sup><sub>km/h</sub></sup></td>
+            <td align="center">123</td>
         </tr>
             <tr>
             <td>10-10-24</td>
@@ -78,43 +78,43 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
             <td align="center">127</td>
         </tr>
             <tr>
-            <td>09-10-24</td>
+            <td>03-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12611347634" title="Kcal: 167 | Gear: Ridley Fenix ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫👷‍♂️" title="🎒🏫👷‍♂️"/>
+<a href="https://www.strava.com/activities/12562555026" title="Kcal: 1146 | Gear: Ridley Fenix ">🎒🏫👷‍♂️</a>
             </td>
-            <td align="center">3 <sup><sub>km</sub></sup></td>
-            <td align="center">2 <sup><sub>m</sub></sup></td>
-            <td align="center">9:54</td>
-            <td align="center">70 <sup><sub>w</sub></sup></td>
-            <td align="center">17.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">127</td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">70 <sup><sub>m</sub></sup></td>
+            <td align="center">1:51:58</td>
+            <td align="center">100 <sup><sub>w</sub></sup></td>
+            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
         </tr>
             <tr>
-            <td>08-10-24</td>
+            <td>01-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒" title="🏫🎒"/>
-<a href="https://www.strava.com/activities/12603001819" title="Kcal: 164 | Gear: Ridley Fenix ">🏫🎒</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="AFTERSHOCK🗻" title="AFTERSHOCK🗻"/>
+<a href="https://www.strava.com/activities/12551092221" title="Kcal: 411 | Gear: Bianchi/Tacx ">AFTERSHOCK🗻</a>
             </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">12 <sup><sub>m</sub></sup></td>
-            <td align="center">13:41</td>
-            <td align="center">72 <sup><sub>w</sub></sup></td>
-            <td align="center">18.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
+            <td align="center">34 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1:06:11</td>
+            <td align="center">n/a</td>
+            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">113</td>
         </tr>
             <tr>
-            <td>07-10-24</td>
+            <td>26-09-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12595175656" title="Kcal: 77 | Gear: State Bicycle Rutherford 3.0 ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒💉🆎" title="🏫🎒💉🆎"/>
+<a href="https://www.strava.com/activities/12506724703" title="Kcal: 443 | Gear: State Bicycle Rutherford 3.0 ">🏫🎒💉🆎</a>
             </td>
-            <td align="center">3 <sup><sub>km</sub></sup></td>
-            <td align="center">4 <sup><sub>m</sub></sup></td>
-            <td align="center">11:18</td>
-            <td align="center">57 <sup><sub>w</sub></sup></td>
-            <td align="center">16.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">104</td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">27 <sup><sub>m</sub></sup></td>
+            <td align="center">41:16</td>
+            <td align="center">79 <sup><sub>w</sub></sup></td>
+            <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
         </tr>
         </table>
 <details>
@@ -130,97 +130,6 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
         </tr>
-                    <tr>
-                <td>03-10-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫👷‍♂️" title="🎒🏫👷‍♂️"/>
-<a href="https://www.strava.com/activities/12562555026" title="Kcal: 1146 | Gear: Ridley Fenix ">🎒🏫👷‍♂️</a>
-                </td>
-                <td align="center">46 <sup><sub>km</sub></sup></td>
-                <td align="center">70 <sup><sub>m</sub></sup></td>
-                <td align="center">1:51:58</td>
-                <td align="center">100 <sup><sub>w</sub></sup></td>
-                <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
-                <td align="center">141</td>
-            </tr>
-                    <tr>
-                <td>02-10-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12553999590" title="Kcal: 129 | Gear: State Bicycle Rutherford 3.0 ">🎒🏫</a>
-                </td>
-                <td align="center">4 <sup><sub>km</sub></sup></td>
-                <td align="center">9 <sup><sub>m</sub></sup></td>
-                <td align="center">13:57</td>
-                <td align="center">71 <sup><sub>w</sub></sup></td>
-                <td align="center">18.5 <sup><sub>km/h</sub></sup></td>
-                <td align="center">116</td>
-            </tr>
-                    <tr>
-                <td>01-10-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="AFTERSHOCK🗻" title="AFTERSHOCK🗻"/>
-<a href="https://www.strava.com/activities/12551092221" title="Kcal: 411 | Gear: Bianchi/Tacx ">AFTERSHOCK🗻</a>
-                </td>
-                <td align="center">34 <sup><sub>km</sub></sup></td>
-                <td align="center">0 <sup><sub>m</sub></sup></td>
-                <td align="center">1:06:11</td>
-                <td align="center">n/a</td>
-                <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
-                <td align="center">113</td>
-            </tr>
-                    <tr>
-                <td>01-10-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/12545481924" title="Kcal: 161 | Gear: Ridley Fenix ">Ochtendrit</a>
-                </td>
-                <td align="center">5 <sup><sub>km</sub></sup></td>
-                <td align="center">10 <sup><sub>m</sub></sup></td>
-                <td align="center">15:44</td>
-                <td align="center">73 <sup><sub>w</sub></sup></td>
-                <td align="center">19 <sup><sub>km/h</sub></sup></td>
-                <td align="center">126</td>
-            </tr>
-                    <tr>
-                <td>30-09-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12537677043" title="Kcal: 166 | Gear: Ridley Fenix ">🎒🏫</a>
-                </td>
-                <td align="center">5 <sup><sub>km</sub></sup></td>
-                <td align="center">8 <sup><sub>m</sub></sup></td>
-                <td align="center">14:18</td>
-                <td align="center">77 <sup><sub>w</sub></sup></td>
-                <td align="center">19.1 <sup><sub>km/h</sub></sup></td>
-                <td align="center">130</td>
-            </tr>
-                    <tr>
-                <td>27-09-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒" title="🏫🎒"/>
-<a href="https://www.strava.com/activities/12513639368" title="Kcal: 189 | Gear: State Bicycle Rutherford 3.0 ">🏫🎒</a>
-                </td>
-                <td align="center">5 <sup><sub>km</sub></sup></td>
-                <td align="center">11 <sup><sub>m</sub></sup></td>
-                <td align="center">17:01</td>
-                <td align="center">78 <sup><sub>w</sub></sup></td>
-                <td align="center">18.5 <sup><sub>km/h</sub></sup></td>
-                <td align="center">125</td>
-            </tr>
-                    <tr>
-                <td>26-09-24</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒💉🆎" title="🏫🎒💉🆎"/>
-<a href="https://www.strava.com/activities/12506724703" title="Kcal: 443 | Gear: State Bicycle Rutherford 3.0 ">🏫🎒💉🆎</a>
-                </td>
-                <td align="center">15 <sup><sub>km</sub></sup></td>
-                <td align="center">27 <sup><sub>m</sub></sup></td>
-                <td align="center">41:16</td>
-                <td align="center">79 <sup><sub>w</sub></sup></td>
-                <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
-                <td align="center">130</td>
-            </tr>
                     <tr>
                 <td>25-09-24</td>
                 <td>
@@ -780,6 +689,97 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
                 <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
                 <td align="center">124</td>
             </tr>
+                    <tr>
+                <td>01-07-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🇧🇪" title="🇧🇪"/>
+<a href="https://www.strava.com/activities/11788012935" title="Kcal: n/a | Gear: State Bicycle Rutherford 3.0 ">🇧🇪</a>
+                </td>
+                <td align="center">10 <sup><sub>km</sub></sup></td>
+                <td align="center">0 <sup><sub>m</sub></sup></td>
+                <td align="center">35:00</td>
+                <td align="center">n/a</td>
+                <td align="center">17.1 <sup><sub>km/h</sub></sup></td>
+                <td align="center">n/a</td>
+            </tr>
+                    <tr>
+                <td>29-06-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Opnieuwdiegodverdoemsekakchallenge" title="Opnieuwdiegodverdoemsekakchallenge"/>
+<a href="https://www.strava.com/activities/11770347832" title="Kcal: 220 | Gear: Bianchi/Tacx ">Opnieuwdiegodverdoemsekakc...</a>
+                </td>
+                <td align="center">16 <sup><sub>km</sub></sup></td>
+                <td align="center">0 <sup><sub>m</sub></sup></td>
+                <td align="center">33:17</td>
+                <td align="center">n/a</td>
+                <td align="center">28.9 <sup><sub>km/h</sub></sup></td>
+                <td align="center">112</td>
+            </tr>
+                    <tr>
+                <td>28-06-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Kindwegdoen" title="Kindwegdoen"/>
+<a href="https://www.strava.com/activities/11758069614" title="Kcal: 302 | Gear: State Bicycle Rutherford 3.0 ">Kindwegdoen</a>
+                </td>
+                <td align="center">8 <sup><sub>km</sub></sup></td>
+                <td align="center">20 <sup><sub>m</sub></sup></td>
+                <td align="center">31:35</td>
+                <td align="center">72 <sup><sub>w</sub></sup></td>
+                <td align="center">14.8 <sup><sub>km/h</sub></sup></td>
+                <td align="center">117</td>
+            </tr>
+                    <tr>
+                <td>27-06-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Familyshoppingk 🛒" title="Familyshoppingk 🛒"/>
+<a href="https://www.strava.com/activities/11753690502" title="Kcal: 199 | Gear: State Bicycle Rutherford 3.0 ">Familyshoppingk 🛒</a>
+                </td>
+                <td align="center">7 <sup><sub>km</sub></sup></td>
+                <td align="center">8 <sup><sub>m</sub></sup></td>
+                <td align="center">28:36</td>
+                <td align="center">60 <sup><sub>w</sub></sup></td>
+                <td align="center">15.1 <sup><sub>km/h</sub></sup></td>
+                <td align="center">115</td>
+            </tr>
+                    <tr>
+                <td>26-06-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🇧🇪⚽🎾🌷🌸🌹🌺🌻🌼🏵️🪻🚿" title="🇧🇪⚽🎾🌷🌸🌹🌺🌻🌼🏵️🪻🚿"/>
+<a href="https://www.strava.com/activities/11755181373" title="Kcal: 622 | Gear: State Bicycle Rutherford 3.0 ">🇧🇪⚽🎾🌷🌸🌹🌺🌻🌼🏵️🪻🚿...</a>
+                </td>
+                <td align="center">20 <sup><sub>km</sub></sup></td>
+                <td align="center">45 <sup><sub>m</sub></sup></td>
+                <td align="center">58:07</td>
+                <td align="center">77 <sup><sub>w</sub></sup></td>
+                <td align="center">21 <sup><sub>km/h</sub></sup></td>
+                <td align="center">135</td>
+            </tr>
+                    <tr>
+                <td>25-06-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="K&amp;G&amp;Schommel" title="K&amp;G&amp;Schommel"/>
+<a href="https://www.strava.com/activities/11738264715" title="Kcal: 128 | Gear: State Bicycle Rutherford 3.0 ">K&amp;G&amp;Schommel</a>
+                </td>
+                <td align="center">10 <sup><sub>km</sub></sup></td>
+                <td align="center">26 <sup><sub>m</sub></sup></td>
+                <td align="center">32:18</td>
+                <td align="center">59 <sup><sub>w</sub></sup></td>
+                <td align="center">17.8 <sup><sub>km/h</sub></sup></td>
+                <td align="center">119</td>
+            </tr>
+                    <tr>
+                <td>24-06-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="MTB van stal" title="MTB van stal"/>
+<a href="https://www.strava.com/activities/11730817880" title="Kcal: 309 | Gear: Kona Honzo MTB ">MTB van stal</a>
+                </td>
+                <td align="center">10 <sup><sub>km</sub></sup></td>
+                <td align="center">20 <sup><sub>m</sub></sup></td>
+                <td align="center">32:43</td>
+                <td align="center">142 <sup><sub>w</sub></sup></td>
+                <td align="center">18.4 <sup><sub>km/h</sub></sup></td>
+                <td align="center">126</td>
+            </tr>
             </table>
 </details>
 
@@ -800,18 +800,18 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">October 2024</td>
-            <td align="center">9</td>
-            <td align="center">117 <sup><sub>km</sub></sup></td>
-            <td align="center">152 <sup><sub>m</sub></sup></td>
-            <td align="center">4h 56m</td>
+            <td align="center">4</td>
+            <td align="center">108 <sup><sub>km</sub></sup></td>
+            <td align="center">173 <sup><sub>m</sub></sup></td>
+            <td align="center">4h 21m</td>
             <td align="center">21</td>
         </tr>
             <tr>
             <td align="center">September 2024</td>
-            <td align="center">18</td>
-            <td align="center">384 <sup><sub>km</sub></sup></td>
-            <td align="center">682 <sup><sub>m</sub></sup></td>
-            <td align="center">16h 58m</td>
+            <td align="center">16</td>
+            <td align="center">374 <sup><sub>km</sub></sup></td>
+            <td align="center">663 <sup><sub>m</sub></sup></td>
+            <td align="center">16h 27m</td>
             <td align="center">29</td>
         </tr>
             <tr>
@@ -1400,18 +1400,18 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center"><b>884</td>
-        <td align="center"><b>28 035 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>81 104 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1mo 3w 1d 10h 16m</b></td>
+        <td align="center"><b>877</td>
+        <td align="center"><b>28 016 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>81 106 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>1mo 3w 1d 9h 10m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>900</td>
-        <td align="center"><b>28 504 <sup><sub>km</sub></sup></b></td>
-        <td align="center"><b>81 104 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1mo 3w 2d 42m</b></td>
+        <td align="center"><b>893</td>
+        <td align="center"><b>28 486 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>81 106 <sup><sub>m</sub></sup></b></td>
+        <td align="center"><b>1mo 3w 1d 23h 36m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -1439,35 +1439,35 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Monday</td>
-            <td align="center">129</td>
+            <td align="center">127</td>
             <td align="center">
                                     27 <sup><sub>km avg</sub></sup> /
-                    3 427 <sup><sub>km total</sub></sup>
+                    3 419 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">11 465 <sup><sub>m</sub></sup></td>
-            <td align="center">6d 12h 15m</td>
+            <td align="center">11 453 <sup><sub>m</sub></sup></td>
+            <td align="center">6d 11h 49m</td>
             <td align="center">21.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Tuesday</td>
-            <td align="center">124</td>
+            <td align="center">122</td>
             <td align="center">
                                     25 <sup><sub>km avg</sub></sup> /
-                    3 087 <sup><sub>km total</sub></sup>
+                    3 078 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">7 040 <sup><sub>m</sub></sup></td>
-            <td align="center">5d 9h 3m</td>
+            <td align="center">7 018 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 8h 33m</td>
             <td align="center">23.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Wednesday</td>
-            <td align="center">150</td>
+            <td align="center">148</td>
             <td align="center">
                                     31 <sup><sub>km avg</sub></sup> /
-                    4 649 <sup><sub>km total</sub></sup>
+                    4 642 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">8 239 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 18h 40m</td>
+            <td align="center">8 228 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 18h 17m</td>
             <td align="center">24.9 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1483,13 +1483,13 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Friday</td>
-            <td align="center">108</td>
+            <td align="center">107</td>
             <td align="center">
-                                    28 <sup><sub>km avg</sub></sup> /
-                    3 053 <sup><sub>km total</sub></sup>
+                                    29 <sup><sub>km avg</sub></sup> /
+                    3 059 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">9 151 <sup><sub>m</sub></sup></td>
-            <td align="center">5d 12h 55m</td>
+            <td align="center">9 198 <sup><sub>m</sub></sup></td>
+            <td align="center">5d 13h 8m</td>
             <td align="center">23.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1536,13 +1536,13 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">Morning (6h - 12h)</td>
-            <td align="center">379</td>
+            <td align="center">372</td>
             <td align="center">
-                                    42 <sup><sub>km avg</sub></sup> /
-                    16 068 <sup><sub>km total</sub></sup>
+                                    43 <sup><sub>km avg</sub></sup> /
+                    16 049 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">61 486 <sup><sub>m</sub></sup></td>
-            <td align="center">1mo 19h 43m</td>
+            <td align="center">61 488 <sup><sub>m</sub></sup></td>
+            <td align="center">1mo 18h 37m</td>
             <td align="center">23.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1608,25 +1608,25 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">State Bicycle Rutherford 3.0</td>
-            <td align="center">476</td>
+            <td align="center">473</td>
             <td align="center">
                                     19 <sup><sub>km avg</sub></sup> /
-                    8 857 <sup><sub>km total</sub></sup>
+                    8 855 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">18 771 <sup><sub>m</sub></sup></td>
-            <td align="center">2w 3d 14h 36m</td>
+            <td align="center">18 805 <sup><sub>m</sub></sup></td>
+            <td align="center">2w 3d 14h 23m</td>
             <td align="center">21.0 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Ridley Fenix</td>
-            <td align="center">57</td>
+            <td align="center">53</td>
             <td align="center">
-                                    54 <sup><sub>km avg</sub></sup> /
-                    3 057 <sup><sub>km total</sub></sup>
+                                    57 <sup><sub>km avg</sub></sup> /
+                    3 040 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">7 438 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 15h 11m</td>
-            <td align="center">27.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">7 406 <sup><sub>m</sub></sup></td>
+            <td align="center">4d 14h 18m</td>
+            <td align="center">27.6 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Kona Honzo MTB</td>
@@ -1836,12 +1836,12 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">2024</td>
-            <td align="center">4 701 <sup><sub>km</sub></sup></td>
+            <td align="center">4 683 <sup><sub>km</sub></sup></td>
             <td align="center">
-                                    204 <sup><sub>km</sub></sup>
+                                    186 <sup><sub>km</sub></sup>
                             </td>
-            <td align="center">11 791 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 18h 43m</td>
+            <td align="center">11 793 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 17h 37m</td>
         </tr>
             <tr>
             <td align="center">2023</td>
@@ -1933,14 +1933,14 @@ I burned `644486 calories` doing so, that's about `2 387` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">0 - 25 km</td>
-            <td align="center">484</td>
+            <td align="center">477</td>
             <td align="center">
                                      14 <sup><sub>km avg</sub></sup> /
-                     6 890 <sup><sub>km total</sub></sup>
+                     6 871 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">14 319 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 6d 6h 24m</td>
-            <td align="center">21.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">14 321 <sup><sub>m</sub></sup></td>
+            <td align="center">1w 6d 5h 18m</td>
+            <td align="center">21.7 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">25 - 50 km</td>

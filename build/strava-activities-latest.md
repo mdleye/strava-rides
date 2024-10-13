@@ -12,15 +12,15 @@
             <tr>
             <td>11-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12626812115" title="Kcal: 134 | Gear: None ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫🕺🏻" title="🎒🏫🕺🏻"/>
+<a href="https://www.strava.com/activities/12642183211" title="Kcal: 409 | Gear: None ">🎒🏫🕺🏻</a>
             </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">7 <sup><sub>m</sub></sup></td>
-            <td align="center">14:05</td>
-            <td align="center">64 <sup><sub>w</sub></sup></td>
-            <td align="center">19.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">124</td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">65 <sup><sub>m</sub></sup></td>
+            <td align="center">43:57</td>
+            <td align="center">80 <sup><sub>w</sub></sup></td>
+            <td align="center">21 <sup><sub>km/h</sub></sup></td>
+            <td align="center">123</td>
         </tr>
             <tr>
             <td>10-10-24</td>
@@ -36,43 +36,43 @@
             <td align="center">127</td>
         </tr>
             <tr>
-            <td>09-10-24</td>
+            <td>03-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12611347634" title="Kcal: 167 | Gear: None ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫👷‍♂️" title="🎒🏫👷‍♂️"/>
+<a href="https://www.strava.com/activities/12562555026" title="Kcal: 1146 | Gear: None ">🎒🏫👷‍♂️</a>
             </td>
-            <td align="center">3 <sup><sub>km</sub></sup></td>
-            <td align="center">2 <sup><sub>m</sub></sup></td>
-            <td align="center">9:54</td>
-            <td align="center">70 <sup><sub>w</sub></sup></td>
-            <td align="center">17.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">127</td>
+            <td align="center">46 <sup><sub>km</sub></sup></td>
+            <td align="center">70 <sup><sub>m</sub></sup></td>
+            <td align="center">1:51:58</td>
+            <td align="center">100 <sup><sub>w</sub></sup></td>
+            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">141</td>
         </tr>
             <tr>
-            <td>08-10-24</td>
+            <td>01-10-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒" title="🏫🎒"/>
-<a href="https://www.strava.com/activities/12603001819" title="Kcal: 164 | Gear: None ">🏫🎒</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="AFTERSHOCK🗻" title="AFTERSHOCK🗻"/>
+<a href="https://www.strava.com/activities/12551092221" title="Kcal: 411 | Gear: None ">AFTERSHOCK🗻</a>
             </td>
-            <td align="center">4 <sup><sub>km</sub></sup></td>
-            <td align="center">12 <sup><sub>m</sub></sup></td>
-            <td align="center">13:41</td>
-            <td align="center">72 <sup><sub>w</sub></sup></td>
-            <td align="center">18.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">133</td>
+            <td align="center">34 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">1:06:11</td>
+            <td align="center">n/a</td>
+            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">113</td>
         </tr>
             <tr>
-            <td>07-10-24</td>
+            <td>26-09-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫" title="🎒🏫"/>
-<a href="https://www.strava.com/activities/12595175656" title="Kcal: 77 | Gear: None ">🎒🏫</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🏫🎒💉🆎" title="🏫🎒💉🆎"/>
+<a href="https://www.strava.com/activities/12506724703" title="Kcal: 443 | Gear: None ">🏫🎒💉🆎</a>
             </td>
-            <td align="center">3 <sup><sub>km</sub></sup></td>
-            <td align="center">4 <sup><sub>m</sub></sup></td>
-            <td align="center">11:18</td>
-            <td align="center">57 <sup><sub>w</sub></sup></td>
-            <td align="center">16.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">104</td>
+            <td align="center">15 <sup><sub>km</sub></sup></td>
+            <td align="center">27 <sup><sub>m</sub></sup></td>
+            <td align="center">41:16</td>
+            <td align="center">79 <sup><sub>w</sub></sup></td>
+            <td align="center">21.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
