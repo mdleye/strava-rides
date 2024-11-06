@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>06-11-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="In den donker met wiki 🔦" title="In den donker met wiki 🔦"/>
+<a href="https://www.strava.com/activities/12838589077" title="Kcal: 974 | Gear: None ">In den donker met wiki 🔦</a>
+            </td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">85 <sup><sub>m</sub></sup></td>
+            <td align="center">1:38:55</td>
+            <td align="center">70 <sup><sub>w</sub></sup></td>
+            <td align="center">19.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
+        </tr>
+            <tr>
+            <td>05-11-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Minstens 10 zei meester Pieter in 2020 🏊" title="Minstens 10 zei meester Pieter in 2020 🏊"/>
+<a href="https://www.strava.com/activities/12832211122" title="Kcal: 258 | Gear: None ">Minstens 10 zei meester Pi...</a>
+            </td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">46 <sup><sub>m</sub></sup></td>
+            <td align="center">28:01</td>
+            <td align="center">94 <sup><sub>w</sub></sup></td>
+            <td align="center">22 <sup><sub>km/h</sub></sup></td>
+            <td align="center">121</td>
+        </tr>
+            <tr>
             <td>03-11-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="SIMONE 🤸🏻‍♀️🥇" title="SIMONE 🤸🏻‍♀️🥇"/>
@@ -47,32 +73,6 @@
             <td align="center">77 <sup><sub>w</sub></sup></td>
             <td align="center">20.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">127</td>
-        </tr>
-            <tr>
-            <td>03-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🎒🏫👷‍♂️" title="🎒🏫👷‍♂️"/>
-<a href="https://www.strava.com/activities/12562555026" title="Kcal: 1146 | Gear: None ">🎒🏫👷‍♂️</a>
-            </td>
-            <td align="center">46 <sup><sub>km</sub></sup></td>
-            <td align="center">70 <sup><sub>m</sub></sup></td>
-            <td align="center">1:51:58</td>
-            <td align="center">100 <sup><sub>w</sub></sup></td>
-            <td align="center">24.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">141</td>
-        </tr>
-            <tr>
-            <td>01-10-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="AFTERSHOCK🗻" title="AFTERSHOCK🗻"/>
-<a href="https://www.strava.com/activities/12551092221" title="Kcal: 411 | Gear: None ">AFTERSHOCK🗻</a>
-            </td>
-            <td align="center">34 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">1:06:11</td>
-            <td align="center">n/a</td>
-            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">113</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
