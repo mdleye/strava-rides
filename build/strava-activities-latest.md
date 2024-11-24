@@ -62,17 +62,17 @@
             <td align="center">135</td>
         </tr>
             <tr>
-            <td>08-11-24</td>
+            <td>06-11-24</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ochtendrit" title="Ochtendrit"/>
-<a href="https://www.strava.com/activities/12851380680" title="Kcal: 129 | Gear: None ">Ochtendrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="In den donker met wiki 🔦" title="In den donker met wiki 🔦"/>
+<a href="https://www.strava.com/activities/12838589077" title="Kcal: 974 | Gear: None ">In den donker met wiki 🔦</a>
             </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">8 <sup><sub>m</sub></sup></td>
-            <td align="center">14:19</td>
-            <td align="center">71 <sup><sub>w</sub></sup></td>
-            <td align="center">19.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">122</td>
+            <td align="center">32 <sup><sub>km</sub></sup></td>
+            <td align="center">85 <sup><sub>m</sub></sup></td>
+            <td align="center">1:38:55</td>
+            <td align="center">70 <sup><sub>w</sub></sup></td>
+            <td align="center">19.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">140</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
