@@ -55,7 +55,7 @@ I burned `652532 calories` doing so, that's about `2 417` pizza slices 🍕
             <td>07-12-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="26km op &#039;t cyclo parcours slimkerke" title="26km op &#039;t cyclo parcours slimkerke"/>
-<a href="https://www.strava.com/activities/13065586298" title="Kcal: 1945 | Gear: Ridley Fenix ">26km op &#039;t cyclo parcours ...</a>
+<a href="https://www.strava.com/activities/13065586298" title="Kcal: 1945 | Gear: Kona Honzo MTB ">26km op &#039;t cyclo parcours ...</a>
             </td>
             <td align="center">56 <sup><sub>km</sub></sup></td>
             <td align="center">179 <sup><sub>m</sub></sup></td>
@@ -1635,24 +1635,24 @@ I burned `652532 calories` doing so, that's about `2 417` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Ridley Fenix</td>
-            <td align="center">57</td>
+            <td align="center">56</td>
             <td align="center">
                                     57 <sup><sub>km avg</sub></sup> /
-                    3 273 <sup><sub>km total</sub></sup>
+                    3 217 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">7 890 <sup><sub>m</sub></sup></td>
-            <td align="center">5d 6m</td>
-            <td align="center">27.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">7 711 <sup><sub>m</sub></sup></td>
+            <td align="center">4d 21h 29m</td>
+            <td align="center">27.4 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
             <td align="center">Kona Honzo MTB</td>
-            <td align="center">58</td>
+            <td align="center">59</td>
             <td align="center">
                                     36 <sup><sub>km avg</sub></sup> /
-                    2 094 <sup><sub>km total</sub></sup>
+                    2 149 <sup><sub>km total</sub></sup>
                             </td>
-            <td align="center">14 075 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 13h 41m</td>
+            <td align="center">14 254 <sup><sub>m</sub></sup></td>
+            <td align="center">4d 16h 18m</td>
             <td align="center">19.1 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
