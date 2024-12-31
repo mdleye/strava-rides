@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>30-12-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Uurtje vertraging door technische problemen maar uiteindelijk toch zonder weerstand en met Bockie, LeBron en de Turbocross richting m&#039;n laatste challenges!" title="Uurtje vertraging door technische problemen maar uiteindelijk toch zonder weerstand en met Bockie, LeBron en de Turbocross richting m&#039;n laatste challenges!"/>
+<a href="https://www.strava.com/activities/13227024443" title="Kcal: 668 | Gear: None ">Uurtje vertraging door tec...</a>
+            </td>
+            <td align="center">85 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">2:07:08</td>
+            <td align="center">n/a</td>
+            <td align="center">40.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">111</td>
+        </tr>
+            <tr>
             <td>27-12-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Ada Skol" title="Ada Skol"/>
@@ -60,19 +73,6 @@
             <td align="center">n/a</td>
             <td align="center">51.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>07-12-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="26km op &#039;t cyclo parcours slimkerke" title="26km op &#039;t cyclo parcours slimkerke"/>
-<a href="https://www.strava.com/activities/13065586298" title="Kcal: 1945 | Gear: None ">26km op &#039;t cyclo parcours ...</a>
-            </td>
-            <td align="center">56 <sup><sub>km</sub></sup></td>
-            <td align="center">179 <sup><sub>m</sub></sup></td>
-            <td align="center">2:36:17</td>
-            <td align="center">91 <sup><sub>w</sub></sup></td>
-            <td align="center">21.3 <sup><sub>km/h</sub></sup></td>
-            <td align="center">161</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
