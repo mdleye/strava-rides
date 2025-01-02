@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>02-01-25</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Avondrit" title="Avondrit"/>
+<a href="https://www.strava.com/activities/13248231965" title="Kcal: 153 | Gear: None ">Avondrit</a>
+            </td>
+            <td align="center">5 <sup><sub>km</sub></sup></td>
+            <td align="center">14 <sup><sub>m</sub></sup></td>
+            <td align="center">13:35</td>
+            <td align="center">104 <sup><sub>w</sub></sup></td>
+            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">136</td>
+        </tr>
+            <tr>
+            <td>01-01-25</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Hagunnan" title="Hagunnan"/>
+<a href="https://www.strava.com/activities/13241908714" title="Kcal: 146 | Gear: None ">Hagunnan</a>
+            </td>
+            <td align="center">10 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">21:05</td>
+            <td align="center">n/a</td>
+            <td align="center">28.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">114</td>
+        </tr>
+            <tr>
             <td>30-12-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Uurtje vertraging door technische problemen maar uiteindelijk toch zonder weerstand en met Bockie, LeBron en de Turbocross richting m&#039;n laatste challenges!" title="Uurtje vertraging door technische problemen maar uiteindelijk toch zonder weerstand en met Bockie, LeBron en de Turbocross richting m&#039;n laatste challenges!"/>
@@ -47,32 +73,6 @@
             <td align="center">53 <sup><sub>w</sub></sup></td>
             <td align="center">17.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">117</td>
-        </tr>
-            <tr>
-            <td>22-12-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Free-riding De Hel Van Kasterlee" title="Free-riding De Hel Van Kasterlee"/>
-<a href="https://www.strava.com/activities/13169224498" title="Kcal: 2158 | Gear: None ">Free-riding De Hel Van Kas...</a>
-            </td>
-            <td align="center">55 <sup><sub>km</sub></sup></td>
-            <td align="center">137 <sup><sub>m</sub></sup></td>
-            <td align="center">3:32:02</td>
-            <td align="center">116 <sup><sub>w</sub></sup></td>
-            <td align="center">15.5 <sup><sub>km/h</sub></sup></td>
-            <td align="center">143</td>
-        </tr>
-            <tr>
-            <td>12-12-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Fietsen op rollen voor KOTK met Denys 👷🌼" title="Fietsen op rollen voor KOTK met Denys 👷🌼"/>
-<a href="https://www.strava.com/activities/13105444250" title="Kcal: n/a | Gear: None ">Fietsen op rollen voor KOT...</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">2:20</td>
-            <td align="center">n/a</td>
-            <td align="center">51.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
