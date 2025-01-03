@@ -10,17 +10,30 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>03-01-25</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🩸" title="🩸"/>
+<a href="https://www.strava.com/activities/13255253672" title="Kcal: 550 | Gear: None ">🩸</a>
+            </td>
+            <td align="center">19 <sup><sub>km</sub></sup></td>
+            <td align="center">46 <sup><sub>m</sub></sup></td>
+            <td align="center">47:38</td>
+            <td align="center">102 <sup><sub>w</sub></sup></td>
+            <td align="center">24.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">139</td>
+        </tr>
+            <tr>
             <td>02-01-25</td>
             <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Avondrit" title="Avondrit"/>
-<a href="https://www.strava.com/activities/13248231965" title="Kcal: 153 | Gear: None ">Avondrit</a>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Winterhuis 🥩" title="Winterhuis 🥩"/>
+<a href="https://www.strava.com/activities/13249847283" title="Kcal: 339 | Gear: None ">Winterhuis 🥩</a>
             </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">14 <sup><sub>m</sub></sup></td>
-            <td align="center">13:35</td>
-            <td align="center">104 <sup><sub>w</sub></sup></td>
-            <td align="center">23.8 <sup><sub>km/h</sub></sup></td>
-            <td align="center">136</td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">41 <sup><sub>m</sub></sup></td>
+            <td align="center">32:55</td>
+            <td align="center">81 <sup><sub>w</sub></sup></td>
+            <td align="center">19.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">130</td>
         </tr>
             <tr>
             <td>01-01-25</td>
@@ -60,19 +73,6 @@
             <td align="center">55 <sup><sub>w</sub></sup></td>
             <td align="center">18.9 <sup><sub>km/h</sub></sup></td>
             <td align="center">120</td>
-        </tr>
-            <tr>
-            <td>26-12-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="🔵⚫💀" title="🔵⚫💀"/>
-<a href="https://www.strava.com/activities/13199436700" title="Kcal: 291 | Gear: None ">🔵⚫💀</a>
-            </td>
-            <td align="center">10 <sup><sub>km</sub></sup></td>
-            <td align="center">21 <sup><sub>m</sub></sup></td>
-            <td align="center">35:07</td>
-            <td align="center">53 <sup><sub>w</sub></sup></td>
-            <td align="center">17.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">117</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
